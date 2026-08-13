@@ -1,0 +1,2114 @@
+{
+  "items": [
+    {
+      "description": "A comprehensive ecosystem resource for Google's Agent Development Kit - one of the fastest-growing agentic AI frameworks, with 20K+ stars, 3.6K+ forks, and thousands of dependent projects. Whether you're exploring AI agents for the first time or deploying production multi-agent systems, this collection provides vetted implementations, learning paths, and deployment patterns from Google's official team and a vibrant global community.",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "Building production-ready AI agents with Google's ADK shouldn't require starting from scratch or piecing together fragmented tutorials. This curated collection addresses three critical challenges that slow down agent development:",
+      "items": [],
+      "title": "🎯 What This List Solves"
+    },
+    {
+      "description": "Outstanding projects from the Agent Development Kit Hackathon with Google Cloud (May 12 - June 23, 2025)",
+      "items": [],
+      "title": "🏆 ADK Hackathon Winners"
+    },
+    {
+      "description": "Ready-to-use templates to kickstart your ADK projects",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 Deep Search ADK Quickstart",
+          "description": "🏭🔴⭐ - The gold standard: Complete fullstack research agent (formerly Gemini Fullstack) with React frontend, human-in-the-loop workflows, autonomous research pipelines, and Cloud Run deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 GoogleCloudPlatform/agent-starter-pack",
+          "description": "🏭🟢 - Production-ready Generative AI Agent templates for Google Cloud with ADK samples, comprehensive deployment infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T23:42:40Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "agent-starter-pack",
+            "stars": 6534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📱 kkdai/linebot-adk",
+          "description": "🏭🟢 - LINE Bot template with Docker, Cloud Run deployment, and security configurations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T14:48:57Z",
+            "owner": "kkdai",
+            "repo": "linebot-adk",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌐 phamvuhoang/google-adk-nextjs-starter",
+          "description": "🟢 - Next.js starter template for Google ADK projects with Angular frontend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-17T10:44:49Z",
+            "owner": "phamvuhoang",
+            "repo": "google-adk-nextjs-starter",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 abhishekkumar35/google-adk-nocode",
+          "description": "🟢 - Visual, no-code interface for creating AI agents (supports cloud and local Ollama models)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-10T11:03:50Z",
+            "owner": "abhishekkumar35",
+            "repo": "google-adk-nocode",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧪 Yash-Kavaiya/google-adk-test-automation",
+          "description": "🏭🟡 - Comprehensive ADK testing framework with automated conversation flows, session management, and detailed CSV reporting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-27T19:58:03Z",
+            "owner": "Yash-Kavaiya",
+            "repo": "google-adk-test-automation",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "🚀 Templates & Starters"
+    },
+    {
+      "description": "Outstanding community projects showcasing ADK capabilities",
+      "items": [],
+      "title": "🌟 Community Excellence"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🚀 kweinmeister/agentic-trading",
+          "description": "🏭🔴 - Multi-agent trading system with risk management, featuring AlphaBot and RiskGuard agents with complete A2A protocol implementation and production deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T03:26:09Z",
+            "owner": "kweinmeister",
+            "repo": "agentic-trading",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📊 vladkol/CRM Data Q&A Agent",
+          "description": "🏭🔴 - Multi-agentic system with Advanced RAG and NL2SQL over Salesforce Data, \"Run on Google Cloud\" deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T19:11:54Z",
+            "owner": "vladkol",
+            "repo": "crm-data-agent",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌐 seehiong/adk-web-multi-agent",
+          "description": "🟡 - Multi-agent system with Google ADK and OpenRouter models coordinating specialist agents to query PostgreSQL (via MCP Toolbox) and Data Commons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-03T12:46:21Z",
+            "owner": "seehiong",
+            "repo": "adk-web-multi-agent",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏛️ intent-solutions-io/iam-bobs-brain",
+          "description": "🏭🔴 - General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T22:45:31Z",
+            "owner": "jeremylongshore",
+            "repo": "iam-bob-adk-python",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🤖 derailed-dash/rickbot-adk",
+          "description": "🏭🟡 - Multi-personality chatbot with FastAPI backend, Next.js UI, OAuth, and multi-agent RAG/search architecture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T13:40:07Z",
+            "owner": "derailed-dash",
+            "repo": "rickbot-adk",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 Parth0248/Forkcast",
+          "description": "🏭🟡 - Multi-agent AI system for collaborative dining decisions with deployed webapp, technical reports, and Cloud Run deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-25T19:10:57Z",
+            "owner": "Parth0248",
+            "repo": "Forkcast",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Multi-Agent Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🛡️ microsoft/agent-governance-toolkit",
+          "description": "🏭🔴🔥 - Governance toolkit for AI agents (now maintained by Microsoft, formerly ) with policy enforcement, zero-trust identity, execution sandboxing, and full OWASP Agentic Top 10 coverage — works with Google ADK, LangChain, CrewAI, AutoGen, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T20:35:39Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⚡ lemony-ai/cascadeflow",
+          "description": "🏭🔴🔥 - Cascading runtime that optimizes cost, latency, quality, and policy decisions inside the agent loop, with support for Google ADK and 20+ model providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T19:29:00Z",
+            "owner": "lemony-ai",
+            "repo": "cascadeflow",
+            "stars": 4015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔐 Idun-Group/idun-agent-platform",
+          "description": "🏭🔴🔥 - Open-source Agent Governance Platform that turns any LangGraph or ADK agent into a production-ready service with AG-UI, OpenTelemetry, MCP, memory, guardrails, SSO, and RBAC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T20:08:14Z",
+            "owner": "Idun-Group",
+            "repo": "idun-agent-platform",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚦 ThreeMoonsLab/agents-shipgate",
+          "description": "🏭🟡 - Deterministic merge gate performing local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces (CLI + GitHub Action)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:53:35Z",
+            "owner": "ThreeMoonsLab",
+            "repo": "agents-shipgate",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎤 bhancockio/Voice-Enabled-Agent",
+          "description": "🟡 - Speech-to-text and voice interaction capabilities with G-Calendar integration and comprehensive setup documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-14T17:35:38Z",
+            "owner": "bhancockio",
+            "repo": "adk-voice-agent",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔌 RubensZimbres/A2A_ADK_MCP",
+          "description": "🔴 - Multi-Agent Systems using Google's ADK + A2A + MCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T20:02:53Z",
+            "owner": "RubensZimbres",
+            "repo": "Multi-Agent-System-A2A-ADK-MCP",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🖥️ trendmicro/adk-agui-middleware",
+          "description": "🏭🟡 - Python middleware bridging Google ADK agents with the AG-UI protocol via Server-Sent Events for real-time agent interactions in frontend applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T01:17:07Z",
+            "owner": "trendmicro",
+            "repo": "adk-agui-middleware",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔗 serkanyasr/mcp-agent-tool-adapter",
+          "description": "🟡 - Converts MCP tools into Google ADK or LangGraph agents with streaming FastAPI/CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-14T17:56:56Z",
+            "owner": "serkanyasr",
+            "repo": "mcp-agent-tool-adapter",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Integration & Advanced Patterns"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🦀 vllora/vllora",
+          "description": "🟡 - Rust-based AI gateway and debugger for agents with tracing and routing across Google ADK, LangChain, and 20+ providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-30T12:18:48Z",
+            "owner": "vllora",
+            "repo": "vllora",
+            "stars": 812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏗️ antiv/mate",
+          "description": "🏭🔴🔥 - Production-ready multi-agent orchestration engine built on Google ADK with database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, and RBAC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T16:25:50Z",
+            "owner": "antiv",
+            "repo": "mate",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🗄️ edu010101/adk-extra-services",
+          "description": "🏭🟡 - Python package providing additional service backends for Google ADK (S3, Redis, MongoDB, Azure, Supabase) to replace default in-memory storage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T18:10:25Z",
+            "owner": "edu010101",
+            "repo": "adk-extra-services",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧠 serkanh/adk-with-memorybank",
+          "description": "🏭🟡 - ADK agents integrated with Vertex AI Memory Bank for persistent cross-session memory and context management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-10T02:37:17Z",
+            "owner": "serkanh",
+            "repo": "adk-with-memorybank",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ VidyutChakrabarti/AgentFlux",
+          "description": "🏭🔴🔥 - Agent engineering platform with interactive playgrounds, graph visualization, automated refinement loops, and fine-tuned models for prompt optimization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-20T09:43:51Z",
+            "owner": "VidyutChakrabarti",
+            "repo": "AgentFlux",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Agent Development & Engineering Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔬 K-Dense-AI/k-dense-byok",
+          "description": "🔴🔥 - Desktop AI co-scientist powered by scientific agent skills for bioinformatics and drug discovery (BYOK, local-first, runs on Google ADK)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:12:44Z",
+            "owner": "K-Dense-AI",
+            "repo": "k-dense-byok",
+            "stars": 1000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 Beever-AI/beever-atlas",
+          "description": "🟡 - Conversational wiki knowledge base with Slack/Teams/Discord bots, RAG, and MCP integration built on Google ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:33:11Z",
+            "owner": "Beever-AI",
+            "repo": "beever-atlas",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌐 anxuanzi/bua",
+          "description": "🟡 - AI-powered browser automation for Go — describe tasks in plain English and let the ADK-powered agent handle the clicks via vision-language models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-04T06:18:45Z",
+            "owner": "anxuanzi",
+            "repo": "bua",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✈️ AashiDutt/Google-Agent-Development-Kit-Demo",
+          "description": "🟢 - ADK-powered travel planner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T02:42:11Z",
+            "owner": "AashiDutt",
+            "repo": "Google-Agent-Development-Kit-Demo",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔍 sreekar2858/JobSearch-Agent",
+          "description": "🟡 - Automated job search agent using ADK that scrapes listings from LinkedIn, Indeed, and Glassdoor, filters by preferences, and manages applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-19T20:08:44Z",
+            "owner": "sreekarrs",
+            "repo": "JobSearch-Agent",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📊 AI Trends Analysis Pipeline",
+          "description": "🟡🔥 - Comprehensive AI analysis pipeline using Exa Search, Tavily Search, Firecrawl and Nebius AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-08T08:54:21Z",
+            "owner": "Astrodevil",
+            "repo": "ADK-Agent-Examples",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📁 Job Finder Agent",
+          "description": "🟡 - Sequential Agent using Mistral OCR, Linkup API and Nebius AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-08T08:54:21Z",
+            "owner": "Astrodevil",
+            "repo": "ADK-Agent-Examples",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📧 Email ADK Agent",
+          "description": "🟢 - Email management and automation agent using Resend API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-08T08:54:21Z",
+            "owner": "Astrodevil",
+            "repo": "ADK-Agent-Examples",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔧 serkanh/sre-bot",
+          "description": "🏭🟡 - SRE/DevOps bot built on Google ADK for intelligent infrastructure management and incident response",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-13T13:29:47Z",
+            "owner": "serkanh",
+            "repo": "sre-bot",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📈 sudsk/tradesage-mvp",
+          "description": "🏭🟡 - Multi-agent trading hypothesis analysis system with 6 specialized agents and Cloud Run deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-23T17:12:18Z",
+            "owner": "sudsk",
+            "repo": "tradesage-mvp",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 bhancockio/YouTube-Thumbnail-Agent",
+          "description": "🟢 - Automated thumbnail generation and optimization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-08T15:54:27Z",
+            "owner": "bhancockio",
+            "repo": "adk-youtube-thumbnail-agent",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💰 mtwn105/zerodha-mcp",
+          "description": "🟡 - Zerodha MCP Server & Client integrating Google ADK for financial applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T10:31:54Z",
+            "owner": "mtwn105",
+            "repo": "zerodha-mcp",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 arjunprabhulal/MCP-Gemma-3-Agent",
+          "description": "🟡 - Gemma 3 leveraged by Ollama, MCP Youtube Search",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-23T22:11:24Z",
+            "owner": "arjunprabhulal",
+            "repo": "adk-mcp-gemma3",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔬 emansarahafi/Research-Assistant-Agent",
+          "description": "🟡 - Multi-agent research assistant with Researcher, Analyst, and Formatter sub-agents using ArXiv search, deployable locally (Flask) or on Vertex AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-06T20:03:39Z",
+            "owner": "emansarahafi",
+            "repo": "Research-Assistant-Agent",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏭 ntg2208/production-ai-customer-support",
+          "description": "🔴🏭 - Enterprise-grade multi-agent system with Policy Agent, Ticket Agent, and Master orchestrator featuring location intelligence, RAG knowledge base, and comprehensive tutorials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-06T23:25:03Z",
+            "owner": "ntg2208",
+            "repo": "production-ai-customer-support",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 Anubhob435/Ai-Agents-EditorHouse",
+          "description": "🟡 - Multi-agent book creation system using Google ADK that plans, writes, edits, illustrates, and compiles complete books from a single topic prompt with MongoDB metadata tracking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T01:42:08Z",
+            "owner": "Anubhob435",
+            "repo": "Ai-Agents-EditorHouse",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧠 IhateCreatingUserNames2/Cognisphere",
+          "description": "🔴 - AI agent development framework built on Google's ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T16:58:53Z",
+            "owner": "JCOMAIA",
+            "repo": "Cognisphere",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "👔 akajammythakkar/adk_hiring_agent",
+          "description": "🟡 - AI-powered hiring agent using Google ADK and Gemini to analyze resumes, assess skills, and match candidates via multi-agent collaboration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-21T13:13:12Z",
+            "owner": "akajammythakkar",
+            "repo": "adk_hiring_agent",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💬 B4K2/WhatsApp-agent",
+          "description": "🟡 - Intelligent WhatsApp agent built with MCP + Google ADK for conversational automation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T07:25:17Z",
+            "owner": "B4K2",
+            "repo": "WhatsApp-agent",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📊 jenyss/google-adk-data-visualization-agent",
+          "description": "🟡 - Data visualization agent built with Google ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-27T20:27:55Z",
+            "owner": "jenyss",
+            "repo": "google-adk-data-visualization-agent",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💹 RubensZimbres/Financial_ADK_Agent_Graph_Database",
+          "description": "🏭🔴 - Multi-agent financial analytics with Neo4j graph database, SEC filings RAG, and ML stock predictions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T18:32:03Z",
+            "owner": "RubensZimbres",
+            "repo": "Financial-Multi-Agents-Graph-Databasee",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏥 Ahsan462aggk/Medical_Search_Pro_Agent",
+          "description": "🟡🏭 - Multi-agent biomedical research system with PubMed search, analysis, and email delivery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-22T07:15:10Z",
+            "owner": "AhsanAliGill",
+            "repo": "Medical_Search_Pro_Agent",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Domain-Specific Applications"
+    },
+    {
+      "description": "Comprehensive guides, tutorials, and educational content",
+      "items": [],
+      "title": "📚 Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📚 ADK Crash Course by Brandon Hancock",
+          "description": "🟢📚 - Fundamentals of ADK, from basics to advanced workflows and multi-agent systems with Youtube tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-02T17:14:15Z",
+            "owner": "bhancockio",
+            "repo": "agent-development-kit-crash-course",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 chongdashu/adk-made-simple",
+          "description": "🟢📚 - From basics to A2A integration with real world applications and projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T12:26:56Z",
+            "owner": "chongdashu",
+            "repo": "adk-made-simple",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 A2A Crash Course by Brandon Hancock",
+          "description": "🟡📚 - Comprehensive guide to building agent-to-agent (A2A) communication using ADK with Youtube tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-27T00:02:00Z",
+            "owner": "bhancockio",
+            "repo": "agent2agent",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 omerbsezer/Fast-LLM-Agent-MCP",
+          "description": "🟡📚 - Comprehensive resource covering LLMs, RAG, fine-tuning, agents, MCP, and Google ADK both theoretically and practically with reference documents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T10:38:26Z",
+            "owner": "omerbsezer",
+            "repo": "Fast-LLM-Agent-MCP",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 theailifestyle/google-adk-demos",
+          "description": "🟢📚 - Collection of practical demos showcasing various ADK features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-17T21:37:12Z",
+            "owner": "theailifestyle",
+            "repo": "google-adk-demos",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 arjunprabhulal/google-adk-masterclass",
+          "description": "🟡📚 - 20-module masterclass covering ADK basics through advanced topics including MCP, Vertex AI, and production deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-08T03:06:04Z",
+            "owner": "arjunprabhulal",
+            "repo": "google-adk-masterclass",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 proflead/how-to-build-ai-agent",
+          "description": "🟢📚 - Beginner-friendly tutorial for building AI agents with Google ADK, covering install, tools, and first agent creation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-29T14:39:58Z",
+            "owner": "proflead",
+            "repo": "how-to-build-ai-agent",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "🚀 Quickstart Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📖 bhancockio/RAG-Agent-Tutorial",
+          "description": "🟡📖 - Complete RAG implementation with ADK and Vertex AI with YouTube tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-11T14:07:19Z",
+            "owner": "bhancockio",
+            "repo": "adk-rag-agent",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 bhancockio/MCP Integration Tutorial",
+          "description": "🟡📖 - Model Context Protocol (both local and remote) with ADK with Youtube tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T13:53:13Z",
+            "owner": "bhancockio",
+            "repo": "adk-mcp-tutorial",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 sokart/adk-walkthrough",
+          "description": "🟡📖 - Step-by-step guides and examples using the open-source Python ADK framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-17T17:08:29Z",
+            "owner": "sokart",
+            "repo": "adk-walkthrough",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 chongdashu/adk-mcp-a2a-crash-course",
+          "description": "🟡📖🔥 - Complete multi-agent system with ADK + A2A + MCP integration, featuring Notion and ElevenLabs with full architecture, testing, and YouTube tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-14T14:07:57Z",
+            "owner": "chongdashu",
+            "repo": "adk-mcp-a2a-crash-course",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 mongodb-developer/MongoDB-ADK-Agents",
+          "description": "🟡📖💡 - Official MongoDB grocery shopping agent implementation with Vector Search, complete dataset, and step-by-step setup - companion repository for the MongoDB Atlas tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-05T11:18:07Z",
+            "owner": "mongodb-developer",
+            "repo": "MongoDB-ADK-Agents",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 lavinigam-gcp/build-with-adk",
+          "description": "🏭🟡📖 - Design patterns and production-ready architectures for building multi-agent AI systems with Google ADK on Cloud Run, Vertex AI, and AI Studio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-29T18:14:39Z",
+            "owner": "lavinigam-gcp",
+            "repo": "build-with-adk",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 meteatamel/adk-demos",
+          "description": "🟢📖 - Collection of demos and tutorials for Google's Agent Development Kit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-29T13:33:26Z",
+            "owner": "meteatamel",
+            "repo": "adk-demos",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 thomas-chong/google-adk-visual-agent-builder-demo",
+          "description": "🟡📖 - Complete demo of Google ADK Visual Agent Builder with a multi-agent research system walkthrough",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-10T09:37:29Z",
+            "owner": "thomas-chong",
+            "repo": "google-adk-visual-agent-builder-demo",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 datascalehq/datascale",
+          "description": "🟡📖🔥 - Multi-agent documentation builder with planner and writer agents that automatically analyze codebases and generate structured knowledge bases - companion repository for the codebase documentation article",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-19T15:44:45Z",
+            "owner": "datascalehq",
+            "repo": "datascale",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "📖 Tutorials & Walkthroughs"
+    },
+    {
+      "description": "Comprehensive tutorial examples from awesome-llm-apps demonstrating ADK patterns and capabilities\nFundamentals:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📖 Starter Agent",
+          "description": "🟢📖 - Your first ADK agent: basic agent creation, the ADK workflow, and simple text processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:45:25Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 132501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Model-Agnostic Agent",
+          "description": "🟢📖 - Running ADK with non-Gemini models, with OpenAI and Anthropic Claude integration sub-examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:45:25Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 132501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Memory Agent",
+          "description": "🟢📖 - Memory and session management with in-memory conversation handling and persistent SQLite storage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:45:25Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 132501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Simple Multi-Agent",
+          "description": "🟢📖 - Multi-agent orchestration via a researcher pipeline of specialized agents in a sequential workflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:45:25Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 132501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 ADK YAML Examples",
+          "description": "🟢📖 - Config-driven agent definitions using ADK's YAML format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:45:25Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 132501
+          }
+        }
+      ],
+      "title": "🎓 Google ADK Tutorial Examples"
+    },
+    {
+      "description": "Google ADK samples repository - educational and demonstration purposes only",
+      "items": [],
+      "title": "🎯 Official Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📚 Academic Research Agent",
+          "description": "🟡📚 - Assists researchers in identifying recent publications and discovering emerging research areas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📊 Data Science Agent",
+          "description": "🟡📚 - Multi-agent system for sophisticated data analysis with NL2SQL and structured data processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏛️ FOMC Research Agent",
+          "description": "🔴📚 - Federal Reserve meeting analysis and market event insights",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔍 LLM Auditor",
+          "description": "🟢📚 - Chatbot response verification and content auditing with Google Search integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📺 YouTube Analyst",
+          "description": "🟡📚 - YouTube channel performance and audience engagement analysis using YouTube Data API with interactive Plotly visualizations via a dedicated visualization sub-agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧠 Economic Research Agent",
+          "description": "🔴📚 - Multi-agent regional economic analysis and site selection grounded in live public APIs (FRED, BLS, Census, HUD, EIA) with an auditor judge for zero-hallucination verification (ADK 2.0)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        }
+      ],
+      "title": "🔬 Research & Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🛡️ Auto Insurance Agent",
+          "description": "🟡📚 - Auto insurance management for members, claims, rewards and roadside assistance with Apigee integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎯 Brand Search Optimization",
+          "description": "🟡📚 - E-commerce product data enrichment analyzing top search results with BigQuery integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 Brand Aligner Agent",
+          "description": "🔴📚 - End-to-end visual asset (images/videos) evaluation against brand guidelines using Gecko on Vertex AI Eval Service, with sequential multi-agent orchestration and GCS artifact storage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏠 Customer Service Agent",
+          "description": "🟢📚 - Home & garden customer service with product selection, order management, and live streaming support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💰 Financial Advisor",
+          "description": "🟡📚 - Educational content assistant for financial advisors covering finance and investment topics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚨 Incident Management",
+          "description": "🟢📚 - ServiceNow integration with Application Integration Connectors and dynamic identity propagation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Order Processing",
+          "description": "🟢📚 - Automated order workflows with human-in-the-loop using Application Integration Connectors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪪 Global KYC / Compliance Agent",
+          "description": "🔴📚 - Conversational agent handling KYC and compliance queries for both UK and US companies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧾 Invoice Processing",
+          "description": "🟡📚 - Document-processing agent combining an end-to-end inference pipeline with an interactive learning loop for continuous improvement",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏥 Health Claim Adjudication Agent",
+          "description": "🔴📚 - Multi-agent cashless health-insurance claim workflow: GCS document discovery, admissibility checks, financial adjudication, and report synthesis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔗 Supply Chain Agent",
+          "description": "🔴📚 - Multi-agent system analyzing real-time market dynamics and weather conditions for supply-chain decisions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💸 Ambient Expense Agent",
+          "description": "🔴📚 - Ambient agent processing expense reports via Pub/Sub through an ADK 2.0 graph workflow — auto-approving low-value items and routing high-value ones through LLM risk review",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏦 Small Business Loan Agent",
+          "description": "🔴📚 - Multi-agent loan processing with sequential orchestration, human-in-the-loop approval, LLM-as-Judge validation, and Firestore-backed repair & resume",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        }
+      ],
+      "title": "💼 Business & Customer Service"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🛒 Personalized Shopping",
+          "description": "🟡📚 - AI-driven product recommendations and shopping assistance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📱 Marketing Agency",
+          "description": "🟡📚 - Website and product launch automation with domain optimization, content generation, and brand asset design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✈️ Travel Concierge",
+          "description": "🟡📚 - Multi-agent travel planning and digital task assistance with dynamic instructions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📈 Google Trends Agent",
+          "description": "🟡📚 - BigQuery-powered trending search terms analysis by region and time period",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📺 Product Catalog Ad Generation",
+          "description": "🟡📚 - Automated advertising content generation from product catalogs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛍️ GenMedia for Commerce",
+          "description": "🔴📚 - Full-stack agent for commerce media generation including virtual try-on (image & video)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🗺️ Grounded Travel Agent (Maps MCP)",
+          "description": "🟡📚 - Travel planner grounded in the Google Maps Platform MCP server for real-time places, weather, and routes, with a modular SKILL.md architecture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📑 Brand-Aligned Presentations",
+          "description": "🔴📚 - Multi-agent system on Vertex AI that generates presentations aligned to brand guidelines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        }
+      ],
+      "title": "🛍️ E-commerce & Marketing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🐛 Software Bug Assistant",
+          "description": "🟡📚 - Bug resolution assistant with RAG, MCP, and external knowledge sources (GitHub, StackOverflow)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🤖 Machine Learning Engineering",
+          "description": "🔴📚 - Autonomous ML model building and training for state-of-the-art performance on diverse ML tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧩 RAG Systems",
+          "description": "🟡📚 - Vertex AI RAG Engine powered document Q&A with citations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📊 Data Engineering Agent",
+          "description": "🔴📚 - BigQuery and Dataform pipeline builder for ELT workflows and analytics engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔧 Plumber Data Engineering Assistant",
+          "description": "🔴📚 - Big data pipeline creator for Apache Spark, Apache Beam, and dBT on GCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧪 SWE Benchmark Agent",
+          "description": "🔴📚 - Software engineering benchmark testing and evaluation agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧪 Tau2 Benchmark Agent",
+          "description": "🔴📚 - Tau2 benchmark agent for advanced evaluation tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎓 Agent Skills Tutorial",
+          "description": "🟢📚 - Demonstrates four ADK skill patterns: inline, file-based, external, and meta",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧠 Memory Bank Agent",
+          "description": "🟡📚 - ADK agent with Vertex AI Memory Bank integration that remembers user preferences and facts across sessions, deployable to Agent Runtime or Cloud Run",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧩 Multi-format Hybrid RAG",
+          "description": "🔴📚 - Production RAG on GCP with contextual chunking, Vector Search 2.0 hybrid search, a REST API, and an MCP server from a single Cloud Run service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📊 Agent Observability (BigQuery)",
+          "description": "🟡📚 - BigQuery-connected agent demonstrating the BigQueryAgentAnalyticsPlugin for centralized logging, debugging, and auditing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛡️ Cyber Guardian Agent",
+          "description": "🔴📚 - Hierarchical multi-agent security workflow with conditional routing and four specialized sub-agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔑 Agent Runtime + OAuth (Drive Reader)",
+          "description": "🔴📚 - Production ADK agent on Agent Runtime with OAuth 2.0 to read Google Drive files on behalf of authenticated users, locally via ADK Web UI and in production via Gemini Enterprise",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌀 Airflow Version Upgrade Agent",
+          "description": "🔴📚 - Two-stage agentic system that migrates Apache Airflow DAGs across versions using Gemini, Vertex AI Search RAG, and a BigQuery knowledge base",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 High-Volume Document Analyzer",
+          "description": "🔴📚 - Reads, summarizes, and answers questions over massive collections of unstructured documents in a chunked, iterative manner with Vertex AI and Gemini",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📋 SDLC: Task Planner",
+          "description": "🟡📚 - Software Development Life Cycle agent that breaks work into actionable tasks (part of the SDLC agent workflow)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏛️ SDLC: Technical Designer",
+          "description": "🟡📚 - SDLC agent that produces technical designs from requirements (part of the SDLC agent workflow)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📝 SDLC: User Story Refiner",
+          "description": "🟡📚 - SDLC agent that refines and structures user stories (part of the SDLC agent workflow)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔀 Workflow: Concurrent Research Writer",
+          "description": "🔴📚 - Nested WorkflowAgents that research a topic, generate a blog post, and publish it to the most appropriate platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⏰ Workflow: Morning Email Debrief",
+          "description": "🟡📚 - Timed-trigger WorkflowAgent that retrieves and summarizes emails on a daily schedule",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙋 Workflow: HITL Concierge",
+          "description": "🟡📚 - Human-in-the-loop WorkflowAgent that pauses for user input while building an itinerary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "➡️ Workflow: Sequential",
+          "description": "🟢📚 - Minimal sequential WorkflowAgent demonstrating a linear, non-branching execution path",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        }
+      ],
+      "title": "🔧 Development & Technical"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🎨 Image Scoring Agent",
+          "description": "🟢📚 - Image generation and policy compliance scoring with Imagen integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🐪 CAMEL Integration",
+          "description": "🔴📚 - Multi-agent communication framework integration with CAMEL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 Deep Search",
+          "description": "🔴📚⭐ - Complete fullstack research agent (formerly Gemini Fullstack) with React frontend, FastAPI backend, and Human-in-the-Loop workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏥 Medical Pre-Authorization",
+          "description": "🟡📚 - Healthcare pre-authorization automation analyzing medical records and policies for coverage determination",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎬 Short Movie Agents",
+          "description": "🟡📚 - End-to-end video construction based on user intent with multi-agent coordination",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎙️ Podcast Transcript Agent",
+          "description": "🟡📚 - Podcast transcription and analysis agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "✍️ Blog Writer",
+          "description": "🟡📚 - Automated blog content generation and writing assistant",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 Story Teller",
+          "description": "🟡📚 - Multi-agent collaborative story writer with a PromptEnhancer, Parallel Writers (creative + focused temperature), Critique Agent, and final Editor — showcases Sequential, Parallel, and Loop agent composition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛡️ Safety Guardrail Plugins",
+          "description": "🟡📚 - Security filters using Gemini-as-judge and Model Armor for jailbreak protection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💳 Antom Payment",
+          "description": "🟡📚 - Ant International payment and refund integration via MCP tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💬 Realtime Conversational Agent",
+          "description": "🟡📚 - Live streaming conversational agent with real-time interaction capabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⚡ ADK Bidi-streaming Demo",
+          "description": "🟡📚 - Real-time bidirectional streaming demo with WebSocket communication, multimodal support (audio/video/text), and concurrent task handling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛡️ AI Security Agent",
+          "description": "🔴📚 - LLM red team agent for comprehensive security testing and vulnerability assessment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💰 Currency Agent",
+          "description": "🟡📚 - Currency exchange rate lookups and conversions with A2A and MCP integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏗️ Hierarchical Workflow Automation",
+          "description": "🔴📚 - Structured multi-system transaction orchestration with multi-agent architecture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔀 Parallel Task Decomposition Execution",
+          "description": "🔴📚 - Design pattern for parallel task decomposition and execution with ADK agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔐 Policy-as-Code Agent",
+          "description": "🟡📚 - Data governance agent implementing policy-as-code patterns for compliance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏪 Retail AI Location Strategy",
+          "description": "🟡📚 - Retail location optimization and market analysis with multi-agent system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌍 Earth Engine Geospatial Agent",
+          "description": "🟡📚 - Geospatial chatbot using Google Earth Engine and the AlphaEarth Satellite Embeddings dataset to compute land-change area for user-supplied GeoJSON geometries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🍽️ Gemma Food Tour Guide",
+          "description": "🟡📚 - Personalized culinary tour builder using Gemma 4 31B and the Google Maps MCP server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎉 Fun Facts Agent",
+          "description": "🟢📚 - Minimal starter agent using Gemini and Google Search grounding to serve fun facts — a gentle intro to ADK tools, Agent Runtime, and Gemini Enterprise",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🩺 NexShift",
+          "description": "🔴📚 - AI nurse rostering agent that generates, validates, and manages optimal schedules, balancing regulatory constraints and fairness via OR-Tools constraint programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏥 Nurse Handover Agent",
+          "description": "🟡📚 - Generates concise, structured shift-handover summaries from raw medical logs in the standardized ISBAR format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 On-Brand GenMedia Agent",
+          "description": "🟡📚 - Generates and evaluates images against brand guidelines, iteratively improving them until policy and quality requirements are met",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:13:56Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        }
+      ],
+      "title": "🎨 Specialized Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🚀 Getting Started"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Quick Start with Google ADK"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Essential ADK Commands"
+    },
+    {
+      "description": "We welcome high-quality contributions that advance the ADK ecosystem. See CONTRIBUTING.md for guidelines.\nQuality Standards: Production-ready code, comprehensive documentation, and adherence to ADK best practices.",
+      "items": [],
+      "title": "🤝 Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:25:00.019Z",
+    "original_repository": "Sri-Krishna-V/awesome-adk-agents",
+    "original_repository_sha": "f1377e83bb781227f5463a51a152a24df8206ee9",
+    "enhanced_repository": "enhansome/enhansome-adk-agents",
+    "enhanced_repository_description": null,
+    "title": "Awesome adk agents with stars"
+  }
+}
