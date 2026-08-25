@@ -12,10 +12,10 @@
             "archived": false,
             "id": 958830671,
             "language": "Python",
-            "last_commit": "2026-08-24T22:57:14Z",
+            "last_commit": "2026-08-25T01:13:44Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10228
+            "stars": 10231
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-21T23:42:40Z",
             "owner": "GoogleCloudPlatform",
             "repo": "agent-starter-pack",
-            "stars": 6542
+            "stars": 6543
           }
         },
         {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-08-21T21:11:27Z",
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6106
+                "stars": 6109
               }
             },
             {
@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 1220594946,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:58:30Z",
+                "last_commit": "2026-08-25T06:17:52Z",
                 "owner": "ThreeMoonsLab",
                 "repo": "agents-shipgate",
                 "stars": 87
@@ -1026,7 +1026,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1041,7 +1041,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1056,7 +1056,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1071,7 +1071,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1086,7 +1086,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1101,7 +1101,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1116,7 +1116,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1131,7 +1131,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1146,7 +1146,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1161,7 +1161,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1176,7 +1176,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1191,7 +1191,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1206,7 +1206,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1221,7 +1221,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1236,7 +1236,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1251,7 +1251,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1266,7 +1266,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1281,7 +1281,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1296,7 +1296,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1311,7 +1311,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1326,7 +1326,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1341,7 +1341,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1356,7 +1356,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1371,7 +1371,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1386,7 +1386,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1401,7 +1401,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1416,7 +1416,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 },
                 {
@@ -1431,7 +1431,7 @@
                     "last_commit": "2026-08-22T04:01:54Z",
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 133938
+                    "stars": 133972
                   }
                 }
               ],
@@ -1483,10 +1483,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1498,10 +1498,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1513,10 +1513,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1528,10 +1528,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1543,10 +1543,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1558,10 +1558,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             }
           ],
@@ -1580,10 +1580,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1595,10 +1595,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1610,10 +1610,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1625,10 +1625,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1640,10 +1640,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1655,10 +1655,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1670,10 +1670,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1685,10 +1685,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1700,10 +1700,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1715,10 +1715,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1730,10 +1730,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1745,10 +1745,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1760,10 +1760,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             }
           ],
@@ -1782,10 +1782,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1797,10 +1797,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1812,10 +1812,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1827,10 +1827,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1842,10 +1842,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1857,10 +1857,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1872,10 +1872,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1887,10 +1887,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             }
           ],
@@ -1909,10 +1909,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1924,10 +1924,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1939,10 +1939,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1954,10 +1954,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1969,10 +1969,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1984,10 +1984,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -1999,10 +1999,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2014,10 +2014,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2029,10 +2029,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2044,10 +2044,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2059,10 +2059,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2074,10 +2074,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2089,10 +2089,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2104,10 +2104,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2119,10 +2119,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2134,10 +2134,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2149,10 +2149,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2164,10 +2164,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2179,10 +2179,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2194,10 +2194,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2209,10 +2209,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2224,10 +2224,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             }
           ],
@@ -2246,10 +2246,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2261,10 +2261,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2276,10 +2276,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2291,10 +2291,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2306,10 +2306,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2321,10 +2321,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2336,10 +2336,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2351,10 +2351,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2366,10 +2366,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2381,10 +2381,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2396,10 +2396,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2411,10 +2411,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2426,10 +2426,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2441,10 +2441,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2456,10 +2456,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2471,10 +2471,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2486,10 +2486,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2501,10 +2501,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2516,10 +2516,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2531,10 +2531,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2546,10 +2546,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2561,10 +2561,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2576,10 +2576,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2591,10 +2591,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             }
           ],
@@ -2613,10 +2613,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2628,10 +2628,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2643,10 +2643,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2658,10 +2658,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2673,10 +2673,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2688,10 +2688,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             },
             {
@@ -2703,10 +2703,10 @@
                 "archived": false,
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:57:14Z",
+                "last_commit": "2026-08-25T01:13:44Z",
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10228
+                "stars": 10231
               }
             }
           ],
@@ -2731,10 +2731,10 @@
                 "archived": false,
                 "id": 958830659,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:59:48Z",
+                "last_commit": "2026-08-25T04:53:22Z",
                 "owner": "google",
                 "repo": "adk-python",
-                "stars": 21263
+                "stars": 21269
               }
             }
           ],
@@ -2768,7 +2768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:01:37.239Z",
+    "last_updated": "2026-08-25T06:19:31.834Z",
     "original_repository": "Sri-Krishna-V/awesome-adk-agents",
     "original_repository_id": 991280125,
     "original_repository_sha": "dfa5d40d94885391c12df92f4f37716bfe7bf608",
