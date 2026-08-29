@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+            "homepage": "https://adk.dev",
             "id": 958830671,
             "language": "Python",
-            "last_commit": "2026-08-27T19:04:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T15:08:02Z",
+            "open_issues": 76,
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10244
+            "stars": 10248,
+            "topics": [
+              "adk",
+              "agent-samples",
+              "agents"
+            ]
           },
           "first_seen": "2026-08-28T06:21:31.461Z"
         },
@@ -26,12 +35,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+            "homepage": "http://goo.gle/agents-cli",
             "id": 925298844,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T23:42:40Z",
+            "open_issues": 49,
             "owner": "GoogleCloudPlatform",
             "repo": "agent-starter-pack",
-            "stars": 6547
+            "stars": 6548,
+            "topics": [
+              "agents",
+              "gcp",
+              "gemini",
+              "genai-agents",
+              "generative-ai",
+              "llmops",
+              "mlops",
+              "observability"
+            ]
           },
           "first_seen": "2026-08-28T06:21:31.461Z"
         },
@@ -42,12 +65,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LINE Bot template work with Google Agent SDK (adk)",
+            "homepage": "https://www.evanlin.com/google-adk-linebot/",
             "id": 963646559,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-17T14:42:13Z",
+            "open_issues": 0,
             "owner": "kkdai",
             "repo": "linebot-adk",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "adk",
+              "agent",
+              "gemini",
+              "linebot"
+            ]
           },
           "first_seen": "2026-08-28T06:21:31.461Z"
         },
@@ -58,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 967856184,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-04-17T10:44:49Z",
+            "open_issues": 0,
             "owner": "phamvuhoang",
             "repo": "google-adk-nextjs-starter",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:31.461Z"
         },
@@ -74,12 +112,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A visual, no-code interface for creating AI agents with Google ADK. Supports both cloud and local Ollama models with multi-tech stack integration.",
+            "homepage": "https://abhishekkumar35.github.io/google-adk-nocode/",
             "id": 963846061,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-10T11:03:50Z",
+            "open_issues": 2,
             "owner": "abhishekkumar35",
             "repo": "google-adk-nocode",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "ai-agents",
+              "fastapi",
+              "gemini-api",
+              "no-code-google-adk",
+              "nodejs",
+              "ollama",
+              "python",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:21:31.461Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1027293471,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-07-27T19:58:03Z",
+            "open_issues": 0,
             "owner": "Yash-Kavaiya",
             "repo": "google-adk-test-automation",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:31.461Z"
         }
@@ -114,12 +171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample application to demonstrate Google ADK and A2A interoperability. For informational purposes only.",
+                "homepage": null,
                 "id": 967666661,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T13:33:58Z",
+                "open_issues": 0,
                 "owner": "kweinmeister",
                 "repo": "agentic-trading",
-                "stars": 251
+                "stars": 251,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -130,12 +192,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CRM Data Q&A Agent - Advanced RAG with NL2SQL over Salesforce Data",
+                "homepage": null,
                 "id": 976897830,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-20T19:11:54Z",
+                "open_issues": 2,
                 "owner": "vladkol",
                 "repo": "crm-data-agent",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "adk",
+                  "agents",
+                  "ai",
+                  "bigquery",
+                  "nl2sql",
+                  "salesforce",
+                  "vertex-ai"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -146,12 +221,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Agent System built with Google ADK and OpenRouter models, coordinating specialist agents to query PostgreSQL (via MCP Toolbox) and Data Commons for HDB resale data and global statistics.",
+                "homepage": "https://seehiong.github.io/posts/2025/11/adk-web-multi-agent-system/",
                 "id": 1088739407,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-11-03T12:46:21Z",
+                "open_issues": 0,
                 "owner": "seehiong",
                 "repo": "adk-web-multi-agent",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "agent-hierarchy",
+                  "coordinator-pattern",
+                  "datacommons",
+                  "google-adk",
+                  "llm",
+                  "multi-agent-system",
+                  "openrouter",
+                  "postgresql",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -162,12 +252,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intent Agent Model (IAM) — Bob reference runtime on Google ADK. Historical V1. IAM = Intent Agent Model, not Identity and Access Management.",
+                "homepage": null,
                 "id": 1032821370,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T20:11:28Z",
+                "open_issues": 1,
                 "owner": "jeremylongshore",
                 "repo": "iam-bob-adk-python",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "ai-agents",
+                  "bob",
+                  "iam-bob",
+                  "intent-agent-model",
+                  "intent-solutions"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -178,12 +279,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rickbot ADK - a multi-personality chatbot built using Google ADK and Gemini, and leveraging Agent-Starter-Pack and Gemini CLI",
+                "homepage": null,
                 "id": 1029677170,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-30T13:40:07Z",
+                "open_issues": 0,
                 "owner": "derailed-dash",
                 "repo": "rickbot-adk",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "adk",
+                  "agent-development-kit",
+                  "agent-starter-pack",
+                  "chatbot",
+                  "gemini",
+                  "gemini-cli",
+                  "rickbot"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -194,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Multi-Agent System for Collaborative Dining Decisions",
+                "homepage": null,
                 "id": 994764627,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-25T19:10:57Z",
+                "open_issues": 1,
                 "owner": "Parth0248",
                 "repo": "Forkcast",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -217,12 +336,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+                "homepage": null,
                 "id": 1171111467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:09:18Z",
+                "open_issues": 251,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6138
+                "stars": 6143,
+                "topics": [
+                  "agent-framework",
+                  "ai-agents",
+                  "ai-safety",
+                  "compliance",
+                  "governance",
+                  "microsoft",
+                  "owasp",
+                  "policy-engine",
+                  "python",
+                  "security",
+                  "trust",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -233,12 +370,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop.",
+                "homepage": "https://cascadeflow.ai",
                 "id": 1082518430,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:11:30Z",
+                "open_issues": 8,
                 "owner": "lemony-ai",
                 "repo": "cascadeflow",
-                "stars": 3980
+                "stars": 3980,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "anthropic",
+                  "api",
+                  "budgets",
+                  "claude",
+                  "cost-optimization",
+                  "cost-transparency",
+                  "google-adk",
+                  "gpt",
+                  "huggingface",
+                  "llm",
+                  "model-cascading",
+                  "n8n",
+                  "ollama",
+                  "openai",
+                  "python",
+                  "together-ai",
+                  "typescript",
+                  "vllm"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -249,12 +412,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🟪 Open-source runtime that ships any LangGraph or Google ADK agent as a production-ready FastAPI service. Bundled , AG-UI copilotkit API, chat UI, 15+ guardrails, MCP, OpenTelemetry, OIDC. One pip install.   Self-hosted, no vendor lock-in. ",
+                "homepage": "https://idun-group.com/engine",
                 "id": 992112053,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-06T20:08:14Z",
+                "open_issues": 110,
                 "owner": "Idun-Group",
                 "repo": "idun-agent-platform",
-                "stars": 199
+                "stars": 199,
+                "topics": [
+                  "a2a-protocol",
+                  "ag-ui-protocol",
+                  "agent-platform",
+                  "agentic-ai",
+                  "agents",
+                  "claude-code",
+                  "claude-skills",
+                  "copilotkit",
+                  "google-adk",
+                  "governance",
+                  "guardrails",
+                  "langchain",
+                  "langfuse",
+                  "langgraph",
+                  "mcp",
+                  "observability",
+                  "open-source",
+                  "openclaw",
+                  "opentelemetry",
+                  "sso"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -265,12 +454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 982342420,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-14T17:35:38Z",
+                "open_issues": 1,
                 "owner": "bhancockio",
                 "repo": "adk-voice-agent",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -281,12 +475,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
+                "homepage": "https://threemoonslab.com/agents-shipgate/",
                 "id": 1220594946,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:06:30Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:09:42Z",
+                "open_issues": 40,
                 "owner": "ThreeMoonsLab",
                 "repo": "agents-shipgate",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "agent-governance",
+                  "agent-release-readiness",
+                  "ai-agent-security",
+                  "ai-agents",
+                  "ci-cd",
+                  "crewai",
+                  "github-actions",
+                  "google-adk",
+                  "langchain",
+                  "mcp",
+                  "mcp-security",
+                  "model-context-protocol",
+                  "openai-agents-sdk",
+                  "openapi",
+                  "policy-as-code",
+                  "release-gate",
+                  "release-readiness",
+                  "sarif",
+                  "static-analysis",
+                  "tool-use-readiness"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -297,12 +517,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Agent Systems with Google's Agent Development Kit + A2A + MCP",
+                "homepage": null,
                 "id": 968401668,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-21T20:02:53Z",
+                "open_issues": 3,
                 "owner": "RubensZimbres",
                 "repo": "Multi-Agent-System-A2A-ADK-MCP",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "a2a",
+                  "adk",
+                  "agentdevelopmentkit",
+                  "chatbot",
+                  "cloudrun",
+                  "containers",
+                  "docker",
+                  "langchain",
+                  "mcp",
+                  "mcp-server",
+                  "multiagent",
+                  "multiagent-systems",
+                  "multiagents",
+                  "python",
+                  "python3",
+                  "rag",
+                  "rag-chatbot"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -313,12 +556,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python middleware bridging Google ADK agents with AGUI protocol via Server-Sent Events for real-time agent interactions",
+                "homepage": "https://github.com/trendmicro/adk-agui-middleware",
                 "id": 1062234928,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-02T01:17:07Z",
+                "open_issues": 9,
                 "owner": "trendmicro",
                 "repo": "adk-agui-middleware",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "agui",
+                  "google-adk",
+                  "middleware",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -329,12 +582,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transforms MCP tools into collaborative, reasoning agents using modern agent frameworks.",
+                "homepage": null,
                 "id": 961794638,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-14T17:56:56Z",
+                "open_issues": 0,
                 "owner": "serkanyasr",
                 "repo": "mcp-agent-tool-adapter",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "agents",
+                  "google-adk",
+                  "langchain",
+                  "langgraph",
+                  "mcp",
+                  "mcp-server",
+                  "modular-protocol"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -345,12 +611,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Google ADK agent that blocks risky actions until evidence is verified, with tamper-evident audit trails and human approval",
+                "homepage": "https://daradigu.com/proofline",
                 "id": 1323688641,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T17:24:39Z",
+                "open_issues": 0,
                 "owner": "ceodaradigu",
                 "repo": "proofline-agent",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "agent-safety",
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-guardrails",
+                  "audit-trail",
+                  "evidence-gate",
+                  "google-adk",
+                  "google-cloud",
+                  "human-in-the-loop",
+                  "llm-security",
+                  "open-source",
+                  "python",
+                  "responsible-ai",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -368,12 +654,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Debug your AI agents",
+                "homepage": "https://vllora.dev",
                 "id": 922815783,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T12:18:48Z",
+                "open_issues": 29,
                 "owner": "vllora",
                 "repo": "vllora",
-                "stars": 813
+                "stars": 813,
+                "topics": [
+                  "agents",
+                  "ai-agents",
+                  "ai-gateway",
+                  "anthropic",
+                  "azure",
+                  "claude",
+                  "deepseek",
+                  "gemini",
+                  "google-adk",
+                  "langchain",
+                  "llm",
+                  "llm-gateway",
+                  "model-context-protocol",
+                  "openai",
+                  "router",
+                  "rust-lang",
+                  "tracing",
+                  "vercelaisdk"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -384,12 +694,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production-ready multi-agent orchestration engine built on Google ADK. Database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, RBAC.",
+                "homepage": null,
                 "id": 1168827824,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T18:30:15Z",
+                "open_issues": 2,
                 "owner": "antiv",
                 "repo": "mate",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "agent-orchestration",
+                  "ai-agents",
+                  "dashboard",
+                  "fastapi",
+                  "google-adk",
+                  "litellm",
+                  "llm",
+                  "mcp",
+                  "multi-agent",
+                  "ollama",
+                  "python",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -400,12 +728,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package providing additional service implementations for the Google ADK framework (S3, Redis, MongoDB, Azure, etc)",
+                "homepage": null,
                 "id": 1000017039,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-22T18:10:25Z",
+                "open_issues": 1,
                 "owner": "edu010101",
                 "repo": "adk-extra-services",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "adk",
+                  "adk-python",
+                  "agent",
+                  "agent-development-kit",
+                  "agents",
+                  "ai",
+                  "azure",
+                  "google-adk",
+                  "llm",
+                  "mongodb",
+                  "multi-agent",
+                  "redis",
+                  "s3",
+                  "supabase"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -416,12 +764,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1017039438,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-10T02:37:17Z",
+                "open_issues": 1,
                 "owner": "serkanh",
                 "repo": "adk-with-memorybank",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "adk",
+                  "agent-development-kit",
+                  "google-adk",
+                  "google-cloud",
+                  "vertex-ai",
+                  "vertex-memorybank",
+                  "vertexai"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -432,12 +793,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application for Agent re-engineering for better and reliable Gen AI workflows.",
+                "homepage": "https://agent-flux.vercel.app",
                 "id": 953330040,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-20T09:43:51Z",
+                "open_issues": 0,
                 "owner": "VidyutChakrabarti",
                 "repo": "AgentFlux",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "agent-engineering",
+                  "agent-ops",
+                  "agentic-ai",
+                  "prompt-engineering"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -455,12 +826,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AI co-scientist running on your desktop. Claude Science but better.",
+                "homepage": "https://k-dense.ai",
                 "id": 1186701238,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:05:15Z",
+                "open_issues": 3,
                 "owner": "K-Dense-AI",
                 "repo": "k-dense-byok",
-                "stars": 1063
+                "stars": 1073,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agent",
+                  "ai-assistant",
+                  "bioinformatics",
+                  "byok",
+                  "drug-discovery",
+                  "google-adk",
+                  "litellm",
+                  "local-first",
+                  "mcp",
+                  "ollama",
+                  "openrouter",
+                  "research-assistant",
+                  "scientific-computing"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -471,12 +862,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your First LLM-Wiki Conversation Knowledge Base",
+                "homepage": "https://docs.beever.ai/atlas",
                 "id": 1217456816,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T20:33:11Z",
+                "open_issues": 56,
                 "owner": "Beever-AI",
                 "repo": "beever-atlas",
-                "stars": 442
+                "stars": 442,
+                "topics": [
+                  "agent-memory",
+                  "agents",
+                  "discord-bot",
+                  "fastapi",
+                  "gemini",
+                  "google-adk",
+                  "knowledge-base",
+                  "large-language-models",
+                  "llm",
+                  "mattermost",
+                  "mcp",
+                  "mcp-server",
+                  "microsoft-teams",
+                  "neo4j",
+                  "open-source",
+                  "python",
+                  "rag",
+                  "react",
+                  "slack-bot",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -487,12 +904,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered browser automation for Go — describe tasks in plain English, let the agent handle the clicks.",
+                "homepage": null,
                 "id": 1123967317,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-01-04T06:18:45Z",
+                "open_issues": 1,
                 "owner": "anxuanzi",
                 "repo": "bua",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "agent-framework",
+                  "ai",
+                  "ai-agent",
+                  "automation",
+                  "browser-automation",
+                  "chrome-devtools-protocol",
+                  "femini",
+                  "go",
+                  "golang",
+                  "google-adk",
+                  "headless-browser",
+                  "llm",
+                  "natural-language",
+                  "rod",
+                  "vision-language-model",
+                  "web-automation",
+                  "web-scraping"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -503,12 +943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADK powered travel planner",
+                "homepage": null,
                 "id": 965924158,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-25T02:42:11Z",
+                "open_issues": 3,
                 "owner": "AashiDutt",
                 "repo": "Google-Agent-Development-Kit-Demo",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -519,12 +964,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JobSearch-Agent automates job searching by scraping listings, filtering based on user preferences, and managing applications. Easily customize search criteria, track progress, and streamline your job hunt with this efficient, Python-powered tool.",
+                "homepage": null,
                 "id": 969986151,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-19T20:08:44Z",
+                "open_issues": 0,
                 "owner": "sreekarrs",
                 "repo": "JobSearch-Agent",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "gemini",
+                  "glassdoor",
+                  "google-adk",
+                  "indeed",
+                  "jobs",
+                  "linkedin"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -535,12 +994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples of agent apps built with different tools — powered by Google's Agent Development Kit (ADK) and Nebius Token Factory.",
+                "homepage": null,
                 "id": 969212855,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-11-08T08:54:21Z",
+                "open_issues": 2,
                 "owner": "Astrodevil",
                 "repo": "ADK-Agent-Examples",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -551,12 +1015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples of agent apps built with different tools — powered by Google's Agent Development Kit (ADK) and Nebius Token Factory.",
+                "homepage": null,
                 "id": 969212855,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-11-08T08:54:21Z",
+                "open_issues": 2,
                 "owner": "Astrodevil",
                 "repo": "ADK-Agent-Examples",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -567,12 +1036,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples of agent apps built with different tools — powered by Google's Agent Development Kit (ADK) and Nebius Token Factory.",
+                "homepage": null,
                 "id": 969212855,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-11-08T08:54:21Z",
+                "open_issues": 2,
                 "owner": "Astrodevil",
                 "repo": "ADK-Agent-Examples",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -583,12 +1057,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 985246443,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-13T13:29:47Z",
+                "open_issues": 3,
                 "owner": "serkanh",
                 "repo": "sre-bot",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "agentic-ai",
+                  "devops",
+                  "google-adk",
+                  "sre"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -599,12 +1083,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 982188291,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-23T17:12:18Z",
+                "open_issues": 1,
                 "owner": "sudsk",
                 "repo": "tradesage-mvp",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -615,12 +1104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 978294891,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-08T15:54:27Z",
+                "open_issues": 1,
                 "owner": "bhancockio",
                 "repo": "adk-youtube-thumbnail-agent",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -631,12 +1125,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zerodha MCP Server & Client - AI Agent (w/Agno & w/Google ADK)",
+                "homepage": null,
                 "id": 959954763,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-17T10:31:54Z",
+                "open_issues": 2,
                 "owner": "mtwn105",
                 "repo": "zerodha-mcp",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "agent",
+                  "agentic-ai",
+                  "agno",
+                  "ai",
+                  "artificial-intelligence",
+                  "kite",
+                  "kiteconnect",
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "model-context-protocol-client",
+                  "model-context-protocol-servers",
+                  "python",
+                  "zerodha"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -647,12 +1162,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build AI Agent using Google ADK , MCP and Gemma 3 model",
+                "homepage": "https://arjun-prabhulal.medium.com/",
                 "id": 971126833,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-23T22:11:24Z",
+                "open_issues": 3,
                 "owner": "arjunprabhulal",
                 "repo": "adk-mcp-gemma3",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "adk",
+                  "gemma3",
+                  "google-cloud-platform",
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "ollama",
+                  "youtube-search"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -663,12 +1192,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extensible multi-agent Research Assistant that uses Gemini-powered subagents (Researcher, Analyst, Formatter) with ArXiv and custom tools to search, analyze, format, and persist academic findings, and can run locally (Flask) or be deployed to Vertex AI.",
+                "homepage": "https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/parallel-scholar",
                 "id": 1107634296,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-12-06T20:03:39Z",
+                "open_issues": 0,
                 "owner": "emansarahafi",
                 "repo": "Research-Assistant-Agent",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "agentic-ai",
+                  "arxiv-api",
+                  "flask",
+                  "gemini",
+                  "google-adk",
+                  "kaggle-5dgenai",
+                  "llm-orchestration",
+                  "research-assistant",
+                  "vertex-ai-agent-engine"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -679,12 +1223,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise-grade multi-agent AI customer support system. Built for production, saves companies £150K+ annually. Complete tutorials included.",
+                "homepage": "https://twentytwotensors.co.uk",
                 "id": 1029836849,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-06T23:25:03Z",
+                "open_issues": 1,
                 "owner": "ntg2208",
                 "repo": "production-ai-customer-support",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "artificial-intelligence",
+                  "business-automation",
+                  "chatbot",
+                  "customer-support",
+                  "enterprise",
+                  "google-adk",
+                  "google-ai",
+                  "machine-learning",
+                  "multi-agent-system",
+                  "production-ready",
+                  "python",
+                  "rag",
+                  "tutorial",
+                  "vector-database"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -695,12 +1259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-agent AI system for automated book creation. Editor House uses Google ADK and Gemini models to plan, write, edit, illustrate, and compile complete books from a single topic prompt, with persistent metadata tracking via MongoDB",
+                "homepage": null,
                 "id": 1020006550,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-22T01:42:08Z",
+                "open_issues": 0,
                 "owner": "Anubhob435",
                 "repo": "Ai-Agents-EditorHouse",
-                "stars": 20
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -711,12 +1280,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cognisphere ADK is an AI agent development framework built on Google's Agent Development Kit (ADK) ",
+                "homepage": null,
                 "id": 966759776,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-06T16:58:53Z",
+                "open_issues": 1,
                 "owner": "JCOMAIA",
                 "repo": "Cognisphere",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "a2a-protocol",
+                  "google-adk",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -727,12 +1305,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build an AI-powered Hiring Agent using Google ADK and Gemini 3 to analyze resumes, assess skills, and match candidates to roles through intelligent, multi-agent collaboration.",
+                "homepage": "https://akajammythakkar.stepwik.com/labs/building-a-hiring-agent-with-adk-gemini-3",
                 "id": 1098465505,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-21T13:13:12Z",
+                "open_issues": 2,
                 "owner": "akajammythakkar",
                 "repo": "adk_hiring_agent",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "adk",
+                  "adk-python",
+                  "ai",
+                  "ai-agents",
+                  "aiagent",
+                  "aistudio",
+                  "gemini",
+                  "gemini-3-pro",
+                  "gemini3",
+                  "gemini3-pro",
+                  "google-adk",
+                  "google-gemini",
+                  "hiring-agent",
+                  "vertexai"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -743,12 +1341,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An intelligent WhatsApp Agent using MCP + Google ADK",
+                "homepage": null,
                 "id": 1000236054,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-07T07:25:17Z",
+                "open_issues": 0,
                 "owner": "B4K2",
                 "repo": "WhatsApp-agent",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "agentic-ai",
+                  "google-adk",
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -759,12 +1368,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-agent conversational financial analytics platform that combines company fundamentals analysis, SEC filing intelligence, and machine learning-based stock price prediction through an intuitive chat interface.",
+                "homepage": null,
                 "id": 1052894805,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-23T18:32:03Z",
+                "open_issues": 0,
                 "owner": "RubensZimbres",
                 "repo": "Financial-Multi-Agents-Graph-Databasee",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "chatbot-application",
+                  "chatbots",
+                  "containers",
+                  "docker",
+                  "finance",
+                  "finance-application",
+                  "google-cloud",
+                  "google-cloud-platform",
+                  "googlecloud",
+                  "graphdatabase",
+                  "langchain",
+                  "machine-learning",
+                  "machinelearning",
+                  "neo4j",
+                  "python",
+                  "python3",
+                  "rag",
+                  "rag-chatbot",
+                  "vector-database",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -775,12 +1410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 965541055,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-04-27T20:27:55Z",
+                "open_issues": 0,
                 "owner": "jenyss",
                 "repo": "google-adk-data-visualization-agent",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -791,12 +1431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 998340561,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-22T07:15:10Z",
+                "open_issues": 1,
                 "owner": "AhsanAliGill",
                 "repo": "Medical_Search_Pro_Agent",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -820,12 +1465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 968836972,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-02T17:14:15Z",
+                "open_issues": 22,
                 "owner": "bhancockio",
                 "repo": "agent-development-kit-crash-course",
-                "stars": 898
+                "stars": 898,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -836,12 +1486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Development Kit (ADK) Made Simple - Code for the tutorial series - Focusing on Practical use cases for Agents",
+                "homepage": null,
                 "id": 968030063,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-23T12:26:56Z",
+                "open_issues": 4,
                 "owner": "chongdashu",
                 "repo": "adk-made-simple",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -852,12 +1507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 997536071,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-27T00:02:00Z",
+                "open_issues": 0,
                 "owner": "bhancockio",
                 "repo": "agent2agent",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -868,12 +1528,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, Google Agent Development Kit, Fundamentals.",
+                "homepage": null,
                 "id": 961856693,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-24T16:18:51Z",
+                "open_issues": 0,
                 "owner": "omerbsezer",
                 "repo": "Fast-LLM-Agent-MCP",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "agent-development",
+                  "agents",
+                  "ai",
+                  "aws",
+                  "bedrock",
+                  "finetuning",
+                  "gemini",
+                  "google-adk",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "llm-agent",
+                  "mcp",
+                  "mcp-tools",
+                  "multiagent",
+                  "rag",
+                  "skills",
+                  "strands-agent",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -884,12 +1569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains the demos for the google agent development kit tutorial on The AI Lifestyle channel.",
+                "homepage": null,
                 "id": 967977113,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-17T21:37:12Z",
+                "open_issues": 2,
                 "owner": "theailifestyle",
                 "repo": "google-adk-demos",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -900,12 +1590,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build AI agents with Google's Agent Development Kit (ADK). 20 modules from basics to advanced topics.",
+                "homepage": "https://arjunprabhulal.com/courses/adk-masterclass-hands-on-series/",
                 "id": 1099209051,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-08T03:06:04Z",
+                "open_issues": 0,
                 "owner": "arjunprabhulal",
                 "repo": "google-adk-masterclass",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "agent-development-kit",
+                  "ai-agents",
+                  "crash-course",
+                  "crash-courses",
+                  "gemini",
+                  "google-adk",
+                  "llm",
+                  "masterclass",
+                  "mcp",
+                  "mcp-toolbox",
+                  "python",
+                  "tutorial",
+                  "vertex-ai"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -916,12 +1625,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to build your own AI agent easily with Google ADK! In this beginner-friendly tutorial, I'll walk you through installing ADK, writing basic agent tools, creating your first AI agent, and running it! ",
+                "homepage": "https://proflead.dev/posts/ai-agent-explained-google-adk/",
                 "id": 974783763,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-29T14:39:58Z",
+                "open_issues": 0,
                 "owner": "proflead",
                 "repo": "how-to-build-ai-agent",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "ai",
+                  "aiagent",
+                  "aiagents",
+                  "aitools",
+                  "google",
+                  "google-adk",
+                  "python",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -939,12 +1662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 980802493,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-11T14:07:19Z",
+                "open_issues": 3,
                 "owner": "bhancockio",
                 "repo": "adk-rag-agent",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -955,12 +1683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 989285738,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-29T13:53:13Z",
+                "open_issues": 2,
                 "owner": "bhancockio",
                 "repo": "adk-mcp-tutorial",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -971,12 +1704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn to build multi-agent systems with Google's Agent Development Kit (ADK). This repository offers step-by-step guides and examples using the open-source Python ADK framework",
+                "homepage": null,
                 "id": 962187016,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-17T17:08:29Z",
+                "open_issues": 1,
                 "owner": "sokart",
                 "repo": "adk-walkthrough",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -987,12 +1725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project demonstrates a multi-agent system using Google's Agent Development Kit (ADK), Agent2Agent (A2A) and Model Context Protocol (MCP).  that integrates Notion for information retrieval and ElevenLabs for text-to-speech conversion.",
+                "homepage": null,
                 "id": 999485128,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-14T14:07:57Z",
+                "open_issues": 3,
                 "owner": "chongdashu",
                 "repo": "adk-mcp-a2a-crash-course",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1003,12 +1746,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MongoDB Agents with Google ADK",
+                "homepage": null,
                 "id": 996111149,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-05T11:18:07Z",
+                "open_issues": 1,
                 "owner": "mongodb-developer",
                 "repo": "MongoDB-ADK-Agents",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "adk",
+                  "agent-development-kit",
+                  "agents",
+                  "ai",
+                  "mongodb"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1019,12 +1773,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design patterns and production-ready architectures for building multi-agent AI systems with Google ADK.",
+                "homepage": null,
                 "id": 1108674923,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-04-29T18:14:39Z",
+                "open_issues": 2,
                 "owner": "lavinigam-gcp",
                 "repo": "build-with-adk",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "agent-engine",
+                  "aistudio",
+                  "cloud-run",
+                  "gemini",
+                  "gemini-ai",
+                  "gemini3",
+                  "google-adk",
+                  "google-cloud",
+                  "multi-agent-systems",
+                  "nanobana",
+                  "veo3",
+                  "vertex-ai",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1035,12 +1808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo repository for agent development kit (ADK)",
+                "homepage": null,
                 "id": 966084896,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-29T13:33:26Z",
+                "open_issues": 1,
                 "owner": "meteatamel",
                 "repo": "adk-demos",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1051,12 +1829,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete demo of Google ADK Visual Agent Builder with multi-agent research system",
+                "homepage": null,
                 "id": 1093359280,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-11-10T09:37:29Z",
+                "open_issues": 0,
                 "owner": "thomas-chong",
                 "repo": "google-adk-visual-agent-builder-demo",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "ai-agents",
+                  "google-adk",
+                  "multi-agent-systems",
+                  "visual-agent-builder"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1067,12 +1855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your data knowledge in one place",
+                "homepage": null,
                 "id": 828349819,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-19T15:44:45Z",
+                "open_issues": 0,
                 "owner": "datascalehq",
                 "repo": "datascale",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1085,12 +1878,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1101,12 +1904,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1117,12 +1930,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1133,12 +1956,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1149,12 +1982,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1165,12 +2008,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1181,12 +2034,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1197,12 +2060,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1213,12 +2086,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1229,12 +2112,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1245,12 +2138,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1261,12 +2164,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1277,12 +2190,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1293,12 +2216,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1309,12 +2242,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1325,12 +2268,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1341,12 +2294,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1357,12 +2320,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1373,12 +2346,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1389,12 +2372,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1405,12 +2398,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1421,12 +2424,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1437,12 +2450,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1453,12 +2476,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1469,12 +2502,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1485,12 +2528,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1501,12 +2554,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 },
@@ -1517,12 +2580,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+                    "homepage": "https://www.theunwindai.com",
                     "id": 793375104,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T04:01:54Z",
+                    "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 134756
+                    "stars": 135018,
+                    "topics": [
+                      "agents",
+                      "llms",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:21:31.461Z"
                 }
@@ -1545,12 +2618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ralph Loop Dockerfile Generator with Google ADK - AI agents that iterate until external verification confirms success",
+                "homepage": null,
                 "id": 1130718263,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-10T02:11:25Z",
+                "open_issues": 0,
                 "owner": "thomas-chong",
                 "repo": "google-adk-ralph-loop-demo",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -1574,12 +2652,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1590,12 +2677,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1606,12 +2702,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1622,12 +2727,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1638,12 +2752,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1654,12 +2777,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -1677,12 +2809,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1693,12 +2834,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1709,12 +2859,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1725,12 +2884,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1741,12 +2909,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1757,12 +2934,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1773,12 +2959,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1789,12 +2984,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1805,12 +3009,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1821,12 +3034,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1837,12 +3059,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1853,12 +3084,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1869,12 +3109,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -1892,12 +3141,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1908,12 +3166,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1924,12 +3191,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1940,12 +3216,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1956,12 +3241,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1972,12 +3266,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -1988,12 +3291,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2004,12 +3316,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -2027,12 +3348,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2043,12 +3373,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2059,12 +3398,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2075,12 +3423,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2091,12 +3448,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2107,12 +3473,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2123,12 +3498,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2139,12 +3523,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2155,12 +3548,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2171,12 +3573,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2187,12 +3598,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2203,12 +3623,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2219,12 +3648,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2235,12 +3673,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2251,12 +3698,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2267,12 +3723,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2283,12 +3748,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2299,12 +3773,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2315,12 +3798,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2331,12 +3823,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2347,12 +3848,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2363,12 +3873,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -2386,12 +3905,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2402,12 +3930,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2418,12 +3955,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2434,12 +3980,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2450,12 +4005,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2466,12 +4030,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2482,12 +4055,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2498,12 +4080,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2514,12 +4105,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2530,12 +4130,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2546,12 +4155,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2562,12 +4180,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2578,12 +4205,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2594,12 +4230,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2610,12 +4255,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2626,12 +4280,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2642,12 +4305,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2658,12 +4330,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2674,12 +4355,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2690,12 +4380,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2706,12 +4405,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2722,12 +4430,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2738,12 +4455,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2754,12 +4480,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -2777,12 +4512,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2793,12 +4537,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2809,12 +4562,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2825,12 +4587,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2841,12 +4612,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2857,12 +4637,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             },
@@ -2873,12 +4662,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+                "homepage": "https://adk.dev",
                 "id": 958830671,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:04:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:08:02Z",
+                "open_issues": 76,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10244
+                "stars": 10248,
+                "topics": [
+                  "adk",
+                  "agent-samples",
+                  "agents"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -2902,12 +4700,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+                "homepage": "https://google.github.io/adk-docs/",
                 "id": 958830659,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:05:23Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:57:13Z",
+                "open_issues": 501,
                 "owner": "google",
                 "repo": "adk-python",
-                "stars": 21310
+                "stars": 21319,
+                "topics": [
+                  "agent",
+                  "agentic",
+                  "agentic-ai",
+                  "agents",
+                  "agents-sdk",
+                  "ai",
+                  "ai-agents",
+                  "aiagentframework",
+                  "genai",
+                  "genai-chatbot",
+                  "llm",
+                  "llms",
+                  "multi-agent",
+                  "multi-agent-systems",
+                  "multi-agents",
+                  "multi-agents-collaboration"
+                ]
               },
               "first_seen": "2026-08-28T06:21:31.461Z"
             }
@@ -2929,12 +4749,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
+            "homepage": null,
             "id": 969003012,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-05-05T03:49:38Z",
+            "open_issues": 2,
             "owner": "tsubasakong",
             "repo": "awesome-google-adk",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "agent-development-kit",
+              "ai-agents",
+              "artificial-intelligence",
+              "awesome-list",
+              "google-adk",
+              "multi-agent-systems"
+            ]
           },
           "first_seen": "2026-08-28T06:21:31.461Z"
         }
@@ -2943,15 +4775,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:21:31.461Z",
+    "last_updated": "2026-08-29T03:53:08.339Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more.",
+      "homepage": null,
       "id": 991280125,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2026-08-18T18:57:06Z",
+      "open_issues": 0,
       "owner": "Sri-Krishna-V",
       "repo": "awesome-adk-agents",
-      "stars": 339
+      "stars": 339,
+      "topics": [
+        "adk",
+        "adk-python",
+        "adk-web",
+        "agent-samples",
+        "agentic-ai",
+        "agents",
+        "awesome",
+        "awesome-list",
+        "gemini-ai",
+        "google-adk",
+        "multi-agent-systems",
+        "templates"
+      ]
     },
     "original_repository_sha": "dfa5d40d94885391c12df92f4f37716bfe7bf608",
     "enhanced_repository": "enhansome/enhansome-adk-agents",
