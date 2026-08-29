@@ -178,11 +178,11 @@ Building production-ready AI agents with Google's ADK shouldn't require starting
 
 ### Integration & Advanced Patterns
 
-* 🛡️ [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,143 | 🐛 251 | 🌐 Python | 📅 2026-08-25 🏭🔴🔥 - Governance toolkit for AI agents (now maintained by Microsoft, formerly `agent-os`) with policy enforcement, zero-trust identity, execution sandboxing, and full OWASP Agentic Top 10 coverage — works with Google ADK, LangChain, CrewAI, AutoGen, and more
+* 🛡️ [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,143 | 🐛 249 | 🌐 Python | 📅 2026-08-25 🏭🔴🔥 - Governance toolkit for AI agents (now maintained by Microsoft, formerly `agent-os`) with policy enforcement, zero-trust identity, execution sandboxing, and full OWASP Agentic Top 10 coverage — works with Google ADK, LangChain, CrewAI, AutoGen, and more
 * ⚡ [lemony-ai/cascadeflow](https://github.com/lemony-ai/cascadeflow) ⭐ 3,980 | 🐛 8 | 🌐 Python | 📅 2026-08-27 🏭🔴🔥 - Cascading runtime that optimizes cost, latency, quality, and policy decisions inside the agent loop, with support for Google ADK and 20+ model providers
 * 🔐 [Idun-Group/idun-agent-platform](https://github.com/Idun-Group/idun-agent-platform) ⭐ 199 | 🐛 110 | 🌐 Python | 📅 2026-08-06 🏭🔴🔥 - Open-source Agent Governance Platform that turns any LangGraph or ADK agent into a production-ready service with AG-UI, OpenTelemetry, MCP, memory, guardrails, SSO, and RBAC
 * 🎤 [bhancockio/Voice-Enabled-Agent](https://github.com/bhancockio/adk-voice-agent) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2025-05-14 🟡 - Speech-to-text and voice interaction capabilities with G-Calendar integration and comprehensive setup documentation
-* 🚦 [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) ⭐ 87 | 🐛 40 | 🌐 Python | 📅 2026-08-29 🏭🟡 - Deterministic merge gate performing local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces (CLI + GitHub Action)
+* 🚦 [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) ⭐ 87 | 🐛 38 | 🌐 Python | 📅 2026-08-29 🏭🟡 - Deterministic merge gate performing local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces (CLI + GitHub Action)
 * 🔌 [RubensZimbres/A2A\_ADK\_MCP](https://github.com/RubensZimbres/A2A_ADK_MCP) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2025-04-21 🔴 - Multi-Agent Systems using Google's ADK + A2A + MCP
 * 🖥️ [trendmicro/adk-agui-middleware](https://github.com/trendmicro/adk-agui-middleware) ⭐ 40 | 🐛 9 | 🌐 Python | 📅 2026-03-02 🏭🟡 - Python middleware bridging Google ADK agents with the AG-UI protocol via Server-Sent Events for real-time agent interactions in frontend applications
 * 🔗 [serkanyasr/mcp-agent-tool-adapter](https://github.com/serkanyasr/mcp-agent-tool-adapter) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-04-14 🟡 - Converts MCP tools into Google ADK or LangGraph agents with streaming FastAPI/CLI
@@ -265,59 +265,59 @@ Building production-ready AI agents with Google's ADK shouldn't require starting
 
 #### 🎓 Google ADK Tutorial Examples
 
-*Comprehensive tutorial examples from [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 demonstrating ADK patterns and capabilities*
+*Comprehensive tutorial examples from [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 demonstrating ADK patterns and capabilities*
 
 **Fundamentals:**
 
-* 📖 [Starter Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/1_starter_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Your first ADK agent: basic agent creation, the ADK workflow, and simple text processing
-* 📖 [Model-Agnostic Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/2_model_agnostic_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Running ADK with non-Gemini models, with OpenAI and Anthropic Claude integration sub-examples
-* 📖 [Memory Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/5_memory_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Memory and session management with in-memory conversation handling and persistent SQLite storage
-* 📖 [Simple Multi-Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/8_simple_multi_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Multi-agent orchestration via a researcher pipeline of specialized agents in a sequential workflow
-* 📖 [ADK YAML Examples](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/adk_yaml_examples) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Config-driven agent definitions using ADK's YAML format
+* 📖 [Starter Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/1_starter_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Your first ADK agent: basic agent creation, the ADK workflow, and simple text processing
+* 📖 [Model-Agnostic Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/2_model_agnostic_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Running ADK with non-Gemini models, with OpenAI and Anthropic Claude integration sub-examples
+* 📖 [Memory Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/5_memory_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Memory and session management with in-memory conversation handling and persistent SQLite storage
+* 📖 [Simple Multi-Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/8_simple_multi_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Multi-agent orchestration via a researcher pipeline of specialized agents in a sequential workflow
+* 📖 [ADK YAML Examples](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/adk_yaml_examples) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Config-driven agent definitions using ADK's YAML format
 
 **Structured Output Agents:**
 
-* 📖 [Customer Support Ticket Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/3_structured_output_agent/3_1_customer_support_ticket_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Generates structured support tickets with Pydantic schemas
-* 📖 [Email Generator Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/3_structured_output_agent/3_2_email_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Creates formatted emails with structured output
+* 📖 [Customer Support Ticket Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/3_structured_output_agent/3_1_customer_support_ticket_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Generates structured support tickets with Pydantic schemas
+* 📖 [Email Generator Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/3_structured_output_agent/3_2_email_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Creates formatted emails with structured output
 
 **Tool-Using Agents:**
 
-* 📖 [Code Execution Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_1_builtin_tools/code_exec_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Built-in code execution tools
-* 📖 [Google Search Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_1_builtin_tools/search_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Web search capabilities
-* 📖 [Filesystem Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_4_mcp_tools/filesystem_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - MCP filesystem tools integration
-* 📖 [LangChain Integration Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_3_thirdparty_tools/langchain_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Third-party tool integration with LangChain
-* 📖 [CrewAI Integration Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_3_thirdparty_tools/crewai_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Third-party tool integration with CrewAI
+* 📖 [Code Execution Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_1_builtin_tools/code_exec_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Built-in code execution tools
+* 📖 [Google Search Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_1_builtin_tools/search_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Web search capabilities
+* 📖 [Filesystem Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_4_mcp_tools/filesystem_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - MCP filesystem tools integration
+* 📖 [LangChain Integration Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_3_thirdparty_tools/langchain_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Third-party tool integration with LangChain
+* 📖 [CrewAI Integration Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_3_thirdparty_tools/crewai_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Third-party tool integration with CrewAI
 
 **Callback Agents:**
 
-* 📖 [Agent Lifecycle Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_1_agent_lifecycle_callbacks) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Monitoring agent execution lifecycle
-* 📖 [LLM Interaction Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_2_llm_interaction_callbacks) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Tracking LLM calls and responses
-* 📖 [Tool Execution Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_3_tool_execution_callbacks) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Monitoring tool usage and execution
+* 📖 [Agent Lifecycle Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_1_agent_lifecycle_callbacks) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Monitoring agent execution lifecycle
+* 📖 [LLM Interaction Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_2_llm_interaction_callbacks) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Tracking LLM calls and responses
+* 📖 [Tool Execution Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_3_tool_execution_callbacks) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Monitoring tool usage and execution
 
 **Plugin Agents:**
 
-* 📖 [Plugin-based Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/7_plugins) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Extensible plugin architecture for modular agent design
+* 📖 [Plugin-based Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/7_plugins) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Extensible plugin architecture for modular agent design
 
 **Multi-Agent Systems:**
 
-* 📖 [Sequential Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_1_sequential_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Step-by-step multi-agent coordination
-* 📖 [Loop Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_2_loop_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Iterative multi-agent workflows
-* 📖 [Parallel Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_3_parallel_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Concurrent multi-agent execution
+* 📖 [Sequential Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_1_sequential_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Step-by-step multi-agent coordination
+* 📖 [Loop Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_2_loop_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Iterative multi-agent workflows
+* 📖 [Parallel Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_3_parallel_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟢📖 - Concurrent multi-agent execution
 
 **Multi-Agent Applications:**
 
-* 📖 [AI Financial Coach Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Financial advisory system with specialized agent teams
-* 📖 [AI Home Renovation Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Home improvement planning with multi-agent coordination
-* 📖 [AI SEO Audit Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_seo_audit_team) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Website SEO analysis with specialized agent teams
-* 📖 [Multimodal UI/UX Feedback Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Design review system with multimodal capabilities
-* 📖 [AI Negotiation Battle Simulator](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_negotiation_battle_simulator) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Buyer, seller, and orchestrator agents simulate negotiations with an AG-UI frontend (ag\_ui\_adk)
-* 📖 [AI Sales Intelligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_sales_intelligence_agent_team) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Sequential research agents that generate competitive battle cards and comparison charts
-* 📖 [AI VC Due Diligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_vc_due_diligence_agent_team) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Sequential agents producing HTML reports, infographics, and financial charts for VC due diligence
+* 📖 [AI Financial Coach Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Financial advisory system with specialized agent teams
+* 📖 [AI Home Renovation Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Home improvement planning with multi-agent coordination
+* 📖 [AI SEO Audit Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_seo_audit_team) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Website SEO analysis with specialized agent teams
+* 📖 [Multimodal UI/UX Feedback Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Design review system with multimodal capabilities
+* 📖 [AI Negotiation Battle Simulator](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_negotiation_battle_simulator) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Buyer, seller, and orchestrator agents simulate negotiations with an AG-UI frontend (ag\_ui\_adk)
+* 📖 [AI Sales Intelligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_sales_intelligence_agent_team) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Sequential research agents that generate competitive battle cards and comparison charts
+* 📖 [AI VC Due Diligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_vc_due_diligence_agent_team) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Sequential agents producing HTML reports, infographics, and financial charts for VC due diligence
 
 **Single-Agent Applications:**
 
-* 📖 [Earnings Call Analyst Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/earnings_call_analyst_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Ingests and analyzes earnings calls with transcription, research, and analyst agents
-* 📖 [AI Consultant Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_consultant_agent) ⭐ 135,018 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Business consulting agent using Google Search grounding and session management
+* 📖 [Earnings Call Analyst Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/earnings_call_analyst_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Ingests and analyzes earnings calls with transcription, research, and analyst agents
+* 📖 [AI Consultant Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_consultant_agent) ⭐ 135,026 | 🐛 21 | 🌐 Python | 📅 2026-08-22 🟡📖 - Business consulting agent using Google Search grounding and session management
 
 ### 📝 Articles & Best Practices
 

@@ -342,7 +342,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-25T18:09:18Z",
-                "open_issues": 251,
+                "open_issues": 249,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
                 "stars": 6143,
@@ -480,8 +480,8 @@
                 "id": 1220594946,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T02:09:42Z",
-                "open_issues": 40,
+                "last_commit": "2026-08-29T04:48:05Z",
+                "open_issues": 38,
                 "owner": "ThreeMoonsLab",
                 "repo": "agents-shipgate",
                 "stars": 87,
@@ -1887,7 +1887,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -1913,7 +1913,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -1939,7 +1939,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -1965,7 +1965,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -1991,7 +1991,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2017,7 +2017,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2043,7 +2043,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2069,7 +2069,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2095,7 +2095,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2121,7 +2121,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2147,7 +2147,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2173,7 +2173,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2199,7 +2199,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2225,7 +2225,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2251,7 +2251,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2277,7 +2277,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2303,7 +2303,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2329,7 +2329,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2355,7 +2355,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2381,7 +2381,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2407,7 +2407,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2433,7 +2433,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2459,7 +2459,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2485,7 +2485,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2511,7 +2511,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2537,7 +2537,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2563,7 +2563,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -2589,7 +2589,7 @@
                     "open_issues": 21,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 135018,
+                    "stars": 135026,
                     "topics": [
                       "agents",
                       "llms",
@@ -4775,7 +4775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:53:08.339Z",
+    "last_updated": "2026-08-29T04:49:51.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more.",
