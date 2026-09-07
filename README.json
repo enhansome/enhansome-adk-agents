@@ -19,7 +19,7 @@
             "open_issues": 77,
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10283,
+            "stars": 10286,
             "topics": [
               "adk",
               "agent-samples",
@@ -342,10 +342,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T03:39:53Z",
-                "open_issues": 277,
+                "open_issues": 279,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6203,
+                "stars": 6207,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -379,7 +379,7 @@
                 "open_issues": 8,
                 "owner": "lemony-ai",
                 "repo": "cascadeflow",
-                "stars": 3964,
+                "stars": 3962,
                 "topics": [
                   "agent",
                   "ai",
@@ -480,8 +480,8 @@
                 "id": 1220594946,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T15:54:14Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-06T21:04:36Z",
+                "open_issues": 40,
                 "owner": "ThreeMoonsLab",
                 "repo": "agents-shipgate",
                 "stars": 87,
@@ -703,7 +703,7 @@
                 "open_issues": 1,
                 "owner": "antiv",
                 "repo": "mate",
-                "stars": 88,
+                "stars": 92,
                 "topics": [
                   "agent-orchestration",
                   "ai-agents",
@@ -831,11 +831,11 @@
                 "id": 1186701238,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T21:15:29Z",
+                "last_commit": "2026-09-06T05:08:52Z",
                 "open_issues": 9,
                 "owner": "K-Dense-AI",
                 "repo": "k-dense-byok",
-                "stars": 1153,
+                "stars": 1164,
                 "topics": [
                   "agentic-ai",
                   "ai-agent",
@@ -1537,7 +1537,7 @@
                 "open_issues": 0,
                 "owner": "omerbsezer",
                 "repo": "Fast-LLM-Agent-MCP",
-                "stars": 91,
+                "stars": 90,
                 "topics": [
                   "agent-development",
                   "agents",
@@ -1887,7 +1887,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -1913,7 +1913,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -1939,7 +1939,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -1965,7 +1965,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -1991,7 +1991,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2017,7 +2017,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2043,7 +2043,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2069,7 +2069,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2095,7 +2095,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2121,7 +2121,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2147,7 +2147,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2173,7 +2173,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2199,7 +2199,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2225,7 +2225,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2251,7 +2251,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2277,7 +2277,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2303,7 +2303,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2329,7 +2329,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2355,7 +2355,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2381,7 +2381,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2407,7 +2407,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2433,7 +2433,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2459,7 +2459,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2485,7 +2485,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2511,7 +2511,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2537,7 +2537,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2563,7 +2563,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2589,7 +2589,7 @@
                     "open_issues": 9,
                     "owner": "Shubhamsaboo",
                     "repo": "awesome-llm-apps",
-                    "stars": 136239,
+                    "stars": 136411,
                     "topics": [
                       "agents",
                       "llms",
@@ -2661,7 +2661,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2686,7 +2686,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2711,7 +2711,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2736,7 +2736,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2761,7 +2761,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2786,7 +2786,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2818,7 +2818,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2843,7 +2843,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2868,7 +2868,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2893,7 +2893,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2918,7 +2918,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2943,7 +2943,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2968,7 +2968,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -2993,7 +2993,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3018,7 +3018,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3043,7 +3043,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3068,7 +3068,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3093,7 +3093,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3118,7 +3118,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3150,7 +3150,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3175,7 +3175,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3200,7 +3200,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3225,7 +3225,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3250,7 +3250,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3275,7 +3275,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3300,7 +3300,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3325,7 +3325,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3357,7 +3357,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3382,7 +3382,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3407,7 +3407,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3432,7 +3432,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3457,7 +3457,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3482,7 +3482,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3507,7 +3507,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3532,7 +3532,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3557,7 +3557,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3582,7 +3582,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3607,7 +3607,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3632,7 +3632,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3657,7 +3657,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3682,7 +3682,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3707,7 +3707,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3732,7 +3732,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3757,7 +3757,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3782,7 +3782,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3807,7 +3807,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3832,7 +3832,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3857,7 +3857,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3882,7 +3882,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3914,7 +3914,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3939,7 +3939,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3964,7 +3964,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -3989,7 +3989,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4014,7 +4014,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4039,7 +4039,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4064,7 +4064,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4089,7 +4089,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4114,7 +4114,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4139,7 +4139,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4164,7 +4164,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4189,7 +4189,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4214,7 +4214,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4239,7 +4239,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4264,7 +4264,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4289,7 +4289,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4314,7 +4314,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4339,7 +4339,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4364,7 +4364,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4389,7 +4389,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4414,7 +4414,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4439,7 +4439,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4464,7 +4464,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4489,7 +4489,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4521,7 +4521,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4546,7 +4546,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4571,7 +4571,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4596,7 +4596,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4621,7 +4621,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4646,7 +4646,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4671,7 +4671,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "adk-samples",
-                "stars": 10283,
+                "stars": 10286,
                 "topics": [
                   "adk",
                   "agent-samples",
@@ -4705,11 +4705,11 @@
                 "id": 958830659,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T18:05:52Z",
-                "open_issues": 502,
+                "last_commit": "2026-09-06T18:50:00Z",
+                "open_issues": 507,
                 "owner": "google",
                 "repo": "adk-python",
-                "stars": 21420,
+                "stars": 21427,
                 "topics": [
                   "agent",
                   "agentic",
@@ -4775,7 +4775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:13:28.040Z",
+    "last_updated": "2026-09-07T00:20:55.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more.",
