@@ -34,16 +34,16 @@ New to ADK? [Install](#start-install) · [Learn the basics](#start-learn) · [St
 
 *Google's official ADK repositories and the protocol ADK builds on*
 
-* [a2aproject/A2A](https://github.com/a2aproject/A2A) ⭐ 26,440 | 🐛 304 | 🌐 Shell | 📅 2026-11-05 - The Agent2Agent open protocol (v1.0) for interoperable agents, supported natively by ADK.
-* [google/adk-python](https://github.com/google/adk-python) ⭐ 22,137 | 🐛 416 | 🌐 Python | 📅 2026-11-07 - The core open-source Python ADK: graph workflows, skills, plugins, evaluation and A2A.
-* [google/adk-recipes](https://github.com/google/adk-recipes) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Official runnable recipes: core patterns, contributed agents in five languages, and vertical skill plugins (formerly adk-samples).
-* [google/adk-go](https://github.com/google/adk-go) ⭐ 8,945 | 🐛 241 | 🌐 Go | 📅 2026-11-07 - ADK for Go with graph workflows, human-in-the-loop and A2A (module `google.golang.org/adk/v2`).
-* [google/agents-cli](https://github.com/google/agents-cli) ⭐ 6,316 | 🐛 19 | 🌐 Python | 📅 2026-11-04 - CLI and skills that let a coding agent scaffold, evaluate, deploy and observe ADK agents on Google Cloud; successor to Agent Starter Pack.
-* [google/adk-java](https://github.com/google/adk-java) ⭐ 1,766 | 🐛 105 | 🌐 Java | 📅 2026-11-07 - ADK for Java with plugins, event compaction, tool confirmation and A2A.
-* [google/adk-docs](https://github.com/google/adk-docs) ⭐ 1,533 | 🐛 338 | 🌐 Shell | 📅 2026-11-07 - Source of the official documentation at adk.dev.
-* [google/adk-js](https://github.com/google/adk-js) ⭐ 1,469 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-06 - ADK for TypeScript and JavaScript (npm `@google/adk`) with graph workflows.
-* [google/adk-web](https://github.com/google/adk-web) ⭐ 1,063 | 🐛 142 | 🌐 TypeScript | 📅 2026-11-06 - The developer UI behind `adk web`: chat, traces, evaluation and the visual builder.
-* [google/adk-kotlin](https://github.com/google/adk-kotlin) ⭐ 305 | 🐛 36 | 🌐 Kotlin | 📅 2026-11-07 - ADK for Kotlin and Android.
+* [a2aproject/A2A](https://github.com/a2aproject/A2A) ⭐ 26,456 | 🐛 305 | 🌐 Shell | 📅 2026-11-05 - The Agent2Agent open protocol (v1.0) for interoperable agents, supported natively by ADK.
+* [google/adk-python](https://github.com/google/adk-python) ⭐ 22,149 | 🐛 422 | 🌐 Python | 📅 2026-11-09 - The core open-source Python ADK: graph workflows, skills, plugins, evaluation and A2A.
+* [google/adk-recipes](https://github.com/google/adk-recipes) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Official runnable recipes: core patterns, contributed agents in five languages, and vertical skill plugins (formerly adk-samples).
+* [google/adk-go](https://github.com/google/adk-go) ⭐ 8,946 | 🐛 241 | 🌐 Go | 📅 2026-11-08 - ADK for Go with graph workflows, human-in-the-loop and A2A (module `google.golang.org/adk/v2`).
+* [google/agents-cli](https://github.com/google/agents-cli) ⭐ 6,322 | 🐛 19 | 🌐 Python | 📅 2026-11-04 - CLI and skills that let a coding agent scaffold, evaluate, deploy and observe ADK agents on Google Cloud; successor to Agent Starter Pack.
+* [google/adk-java](https://github.com/google/adk-java) ⭐ 1,766 | 🐛 104 | 🌐 Java | 📅 2026-11-08 - ADK for Java with plugins, event compaction, tool confirmation and A2A.
+* [google/adk-docs](https://github.com/google/adk-docs) ⭐ 1,533 | 🐛 339 | 🌐 Shell | 📅 2026-11-07 - Source of the official documentation at adk.dev.
+* [google/adk-js](https://github.com/google/adk-js) ⭐ 1,470 | 🐛 129 | 🌐 TypeScript | 📅 2026-11-06 - ADK for TypeScript and JavaScript (npm `@google/adk`) with graph workflows.
+* [google/adk-web](https://github.com/google/adk-web) ⭐ 1,064 | 🐛 142 | 🌐 TypeScript | 📅 2026-11-06 - The developer UI behind `adk web`: chat, traces, evaluation and the visual builder.
+* [google/adk-kotlin](https://github.com/google/adk-kotlin) ⭐ 305 | 🐛 37 | 🌐 Kotlin | 📅 2026-11-07 - ADK for Kotlin and Android.
 * [google/adk-python-community](https://github.com/google/adk-python-community) ⭐ 188 | 🐛 75 | 🌐 Python | 📅 2026-06-18 - Community-contributed ADK tools, service integrations and deployment scripts (`pip install google-adk-community`).
 
 ## 🍳 Official Recipes
@@ -56,36 +56,36 @@ In this section: [Core Recipes](#core-recipes) · [Contributed & Vertical Agents
 
 > **⚠️ Important:** These are official Google examples for learning and demonstration purposes only. They are not intended for production use without significant modification. They all live in `google/adk-recipes` (see Official SDKs & Tools).
 
-* 🟡 [ADK Python contributing samples](https://github.com/google/adk-python/tree/main/contributing/samples) ⭐ 22,137 | 🐛 416 | 🌐 Python | 📅 2026-11-07 - Small feature-focused samples inside the ADK repo, grouped by topic (workflows, A2A, plugins, evaluation, live, MCP, memory and more).
+* 🟡 [ADK Python contributing samples](https://github.com/google/adk-python/tree/main/contributing/samples) ⭐ 22,149 | 🐛 422 | 🌐 Python | 📅 2026-11-09 - Small feature-focused samples inside the ADK repo, grouped by topic (workflows, A2A, plugins, evaluation, live, MCP, memory and more).
 
 ### Core Recipes
 
-* 🔴 [Deep Search ADK Quickstart](https://github.com/google/adk-recipes/tree/main/core/python/deep-search) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 🏭 - Official fullstack research agent (formerly Gemini Fullstack) with a React frontend, human-in-the-loop plan approval, autonomous research pipelines, and Cloud Run deployment.
-* 🟡 [Ambient Expense Agent](https://github.com/google/adk-recipes/tree/main/core/python/ambient-expense-agent) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Ambient agent processing expense reports via Pub/Sub through an ADK 2.0 graph workflow, auto-approving low-value items and routing high-value ones through LLM risk review and human approval.
-* 🔴 [GenMedia for Commerce](https://github.com/google/adk-recipes/tree/main/core/python/genmedia-for-commerce) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Studio agent and Gemini workflows for retail media: photo and video virtual try-on, 360° product spins, and judge-model quality checks, usable as a web app or inside Gemini Enterprise.
-* 🟡 [Safety Guardrail Plugins](https://github.com/google/adk-recipes/tree/main/core/python/safety-plugins) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Security filters using Gemini-as-judge and Model Armor plugins for jailbreak protection.
-* 🟡 [Cross-Session Memory](https://github.com/google/adk-recipes/tree/main/core/python/cross-session-memory) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - ADK agent with Vertex AI Memory Bank that remembers user preferences and facts across sessions, deployable to Agent Runtime or Cloud Run.
-* 🔴 [OAuth User Consent Flow (Drive Reader)](https://github.com/google/adk-recipes/tree/main/core/python/oauth-user-consent-flow) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - ADK agent on Agent Runtime using OAuth 2.0 to read Google Drive files on behalf of authenticated users, locally via ADK Web UI and in production via Gemini Enterprise.
-* 🟡 [RAG Agent: Agent Platform Search](https://github.com/google/adk-recipes/tree/main/core/python/rag-agent-search) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Starter RAG agent grounded on Agent Platform Search (Discovery Engine) with a GCS data connector and Terraform setup.
-* 🟡 [RAG Agent: Vector Search](https://github.com/google/adk-recipes/tree/main/core/python/rag-vector-search) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Starter RAG agent grounded on Vector Search 2.0 with a Kubeflow Pipelines ingestion pipeline that loads, chunks, and imports documents.
-* 🔴 [ADK Voice Agent](https://github.com/google/adk-recipes/tree/main/core/python/adk-voice-agent) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Gemini Live voice agent that stays responsive while coding agents work in the background on a per-user cloud computer, with approval gates and Google Workspace and GitHub access.
-* 🔴 [Ambient Quality Agent (AQuA)](https://github.com/google/adk-recipes/tree/main/core/python/ambient-quality-agent) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - ADK agent that runs beside a production agent, evaluates its conversations in BigQuery, and tracks recurring defects as insights.
-* 🔴 [Long Horizon Harness](https://github.com/google/adk-recipes/tree/main/core/python/long-horizon-harness) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Reference agent harness with cross-session memory, per-user sandbox, tool guardrails, sub-agents, and a self-improvement loop.
+* 🔴 [Deep Search ADK Quickstart](https://github.com/google/adk-recipes/tree/main/core/python/deep-search) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 🏭 - Official fullstack research agent (formerly Gemini Fullstack) with a React frontend, human-in-the-loop plan approval, autonomous research pipelines, and Cloud Run deployment.
+* 🟡 [Ambient Expense Agent](https://github.com/google/adk-recipes/tree/main/core/python/ambient-expense-agent) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Ambient agent processing expense reports via Pub/Sub through an ADK 2.0 graph workflow, auto-approving low-value items and routing high-value ones through LLM risk review and human approval.
+* 🔴 [GenMedia for Commerce](https://github.com/google/adk-recipes/tree/main/core/python/genmedia-for-commerce) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Studio agent and Gemini workflows for retail media: photo and video virtual try-on, 360° product spins, and judge-model quality checks, usable as a web app or inside Gemini Enterprise.
+* 🟡 [Safety Guardrail Plugins](https://github.com/google/adk-recipes/tree/main/core/python/safety-plugins) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Security filters using Gemini-as-judge and Model Armor plugins for jailbreak protection.
+* 🟡 [Cross-Session Memory](https://github.com/google/adk-recipes/tree/main/core/python/cross-session-memory) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - ADK agent with Vertex AI Memory Bank that remembers user preferences and facts across sessions, deployable to Agent Runtime or Cloud Run.
+* 🔴 [OAuth User Consent Flow (Drive Reader)](https://github.com/google/adk-recipes/tree/main/core/python/oauth-user-consent-flow) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - ADK agent on Agent Runtime using OAuth 2.0 to read Google Drive files on behalf of authenticated users, locally via ADK Web UI and in production via Gemini Enterprise.
+* 🟡 [RAG Agent: Agent Platform Search](https://github.com/google/adk-recipes/tree/main/core/python/rag-agent-search) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Starter RAG agent grounded on Agent Platform Search (Discovery Engine) with a GCS data connector and Terraform setup.
+* 🟡 [RAG Agent: Vector Search](https://github.com/google/adk-recipes/tree/main/core/python/rag-vector-search) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Starter RAG agent grounded on Vector Search 2.0 with a Kubeflow Pipelines ingestion pipeline that loads, chunks, and imports documents.
+* 🔴 [ADK Voice Agent](https://github.com/google/adk-recipes/tree/main/core/python/adk-voice-agent) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Gemini Live voice agent that stays responsive while coding agents work in the background on a per-user cloud computer, with approval gates and Google Workspace and GitHub access.
+* 🔴 [Ambient Quality Agent (AQuA)](https://github.com/google/adk-recipes/tree/main/core/python/ambient-quality-agent) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - ADK agent that runs beside a production agent, evaluates its conversations in BigQuery, and tracks recurring defects as insights.
+* 🔴 [Long Horizon Harness](https://github.com/google/adk-recipes/tree/main/core/python/long-horizon-harness) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Reference agent harness with cross-session memory, per-user sandbox, tool guardrails, sub-agents, and a self-improvement loop.
 
 ### Contributed & Vertical Agents
 
-* 🟢 [LLM Auditor](https://github.com/google/adk-recipes/tree/main/contrib/python/llm-auditor) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Chatbot response verification and content auditing with Google Search integration.
-* 🟡 [Financial Advisor](https://github.com/google/adk-recipes/tree/main/contrib/python/financial-advisor) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Multi-agent stock analysis that proposes trading strategies, an execution plan, and a risk assessment using Google Search.
-* 🟡 [Brand Search Optimization](https://github.com/google/adk-recipes/tree/main/contrib/python/brand-search-optimization) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Multi-agent workflow that mines BigQuery catalog keywords and uses Gemini Computer Use to study competitor listings, then recommends scored, search-optimized product titles.
-* 🔴 [Brand-Aligned Presentations](https://github.com/google/adk-recipes/tree/main/contrib/python/brand-aligned-presentations) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Multi-agent system on Vertex AI that generates presentations aligned to brand guidelines, with a pause-and-review step before slide generation.
-* 🔴 [Small Business Loan Agent](https://github.com/google/adk-recipes/tree/main/contrib/python/small-business-loan-agent) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Multi-agent loan processing with sequential orchestration, human-in-the-loop approval, LLM-as-Judge validation, and Firestore-backed repair & resume.
-* 🔴 [High-Volume Document Analyzer](https://github.com/google/adk-recipes/tree/main/contrib/python/high-volume-document-analyzer) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Reads, summarizes, and answers questions over massive collections of unstructured documents in a chunked, iterative manner with Vertex AI and Gemini.
-* 🟡 [Multi-format Hybrid RAG](https://github.com/google/adk-recipes/tree/main/contrib/python/multiformat-hybrid-rag) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Production RAG on GCP with contextual chunking, Vector Search 2.0 hybrid search, a REST API, and an MCP server from a single Cloud Run service.
-* 🟡 [On-Brand GenMedia Agent](https://github.com/google/adk-recipes/tree/main/contrib/python/on-brand-genmedia) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Generates and evaluates images against brand guidelines, iteratively improving them until policy and quality requirements are met.
-* 🟢 [Agent Skills Tutorial](https://github.com/google/adk-recipes/tree/main/contrib/python/agent-skills-tutorial) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Demonstrates four ADK skill patterns: inline, file-based, external, and meta (marked inactive upstream).
-* 🟡 [Retail Product Search](https://github.com/google/adk-recipes/tree/main/contrib/python/retail-product-search) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Semantic product search agent using Vector Search 2.0 and BigQuery, deployable to Agent Runtime, Gemini Enterprise, or Cloud Run.
-* 🟡 [Retail Virtual Try-On](https://github.com/google/adk-recipes/tree/main/contrib/python/retail-virtual-tryon) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Virtual try-on agent producing still images with Gemini image models and 8-second catwalk videos with Veo.
-* 🟡 [Staged UI Widgets](https://github.com/google/adk-recipes/tree/main/contrib/python/staged-ui-widgets) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Shopping agent that renders A2UI widgets (product cards, comparison tables, timelines, charts) by staging payloads in session state and emitting them in one after-agent callback.
+* 🟢 [LLM Auditor](https://github.com/google/adk-recipes/tree/main/contrib/python/llm-auditor) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Chatbot response verification and content auditing with Google Search integration.
+* 🟡 [Financial Advisor](https://github.com/google/adk-recipes/tree/main/contrib/python/financial-advisor) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Multi-agent stock analysis that proposes trading strategies, an execution plan, and a risk assessment using Google Search.
+* 🟡 [Brand Search Optimization](https://github.com/google/adk-recipes/tree/main/contrib/python/brand-search-optimization) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Multi-agent workflow that mines BigQuery catalog keywords and uses Gemini Computer Use to study competitor listings, then recommends scored, search-optimized product titles.
+* 🔴 [Brand-Aligned Presentations](https://github.com/google/adk-recipes/tree/main/contrib/python/brand-aligned-presentations) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Multi-agent system on Vertex AI that generates presentations aligned to brand guidelines, with a pause-and-review step before slide generation.
+* 🔴 [Small Business Loan Agent](https://github.com/google/adk-recipes/tree/main/contrib/python/small-business-loan-agent) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Multi-agent loan processing with sequential orchestration, human-in-the-loop approval, LLM-as-Judge validation, and Firestore-backed repair & resume.
+* 🔴 [High-Volume Document Analyzer](https://github.com/google/adk-recipes/tree/main/contrib/python/high-volume-document-analyzer) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Reads, summarizes, and answers questions over massive collections of unstructured documents in a chunked, iterative manner with Vertex AI and Gemini.
+* 🟡 [Multi-format Hybrid RAG](https://github.com/google/adk-recipes/tree/main/contrib/python/multiformat-hybrid-rag) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Production RAG on GCP with contextual chunking, Vector Search 2.0 hybrid search, a REST API, and an MCP server from a single Cloud Run service.
+* 🟡 [On-Brand GenMedia Agent](https://github.com/google/adk-recipes/tree/main/contrib/python/on-brand-genmedia) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Generates and evaluates images against brand guidelines, iteratively improving them until policy and quality requirements are met.
+* 🟢 [Agent Skills Tutorial](https://github.com/google/adk-recipes/tree/main/contrib/python/agent-skills-tutorial) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Demonstrates four ADK skill patterns: inline, file-based, external, and meta (marked inactive upstream).
+* 🟡 [Retail Product Search](https://github.com/google/adk-recipes/tree/main/contrib/python/retail-product-search) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Semantic product search agent using Vector Search 2.0 and BigQuery, deployable to Agent Runtime, Gemini Enterprise, or Cloud Run.
+* 🟡 [Retail Virtual Try-On](https://github.com/google/adk-recipes/tree/main/contrib/python/retail-virtual-tryon) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Virtual try-on agent producing still images with Gemini image models and 8-second catwalk videos with Veo.
+* 🟡 [Staged UI Widgets](https://github.com/google/adk-recipes/tree/main/contrib/python/staged-ui-widgets) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Shopping agent that renders A2UI widgets (product cards, comparison tables, timelines, charts) by staging payloads in session state and emitting them in one after-agent callback.
 
 ### Other Language Recipes
 
@@ -93,25 +93,25 @@ Official ADK recipes in Go, Java, Kotlin and TypeScript.
 
 **Go**
 
-* 🟡 [Financial Advisor (Go)](https://github.com/google/adk-recipes/tree/main/contrib/go/financial-advisor) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Go port of the multi-agent financial advisor: Google Search ticker analysis, trading strategies, execution plan, and risk assessment.
+* 🟡 [Financial Advisor (Go)](https://github.com/google/adk-recipes/tree/main/contrib/go/financial-advisor) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Go port of the multi-agent financial advisor: Google Search ticker analysis, trading strategies, execution plan, and risk assessment.
 
 **Java**
 
-* 🟡 [Financial Advisor (Java)](https://github.com/google/adk-recipes/tree/main/contrib/java/financial-advisor) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Java port of the multi-agent financial advisor.
-* 🔴 [Time Series Forecasting (Java)](https://github.com/google/adk-recipes/tree/main/contrib/java/time-series-forecasting) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - ADK Java agent using MCP Toolbox and BigQuery `AI.FORECAST` for natural language time series forecasting (marked inactive upstream).
+* 🟡 [Financial Advisor (Java)](https://github.com/google/adk-recipes/tree/main/contrib/java/financial-advisor) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Java port of the multi-agent financial advisor.
+* 🔴 [Time Series Forecasting (Java)](https://github.com/google/adk-recipes/tree/main/contrib/java/time-series-forecasting) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - ADK Java agent using MCP Toolbox and BigQuery `AI.FORECAST` for natural language time series forecasting (marked inactive upstream).
 
 **Kotlin**
 
-* 🟡 [Financial Advisor (Kotlin)](https://github.com/google/adk-recipes/tree/main/contrib/kotlin/financial-advisor) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Kotlin port of the multi-agent financial advisor.
-* 🟡 [LLM Auditor (Kotlin)](https://github.com/google/adk-recipes/tree/main/contrib/kotlin/llm-auditor) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Sequential critic and reviser pipeline that fact-checks LLM answers with Google Search.
+* 🟡 [Financial Advisor (Kotlin)](https://github.com/google/adk-recipes/tree/main/contrib/kotlin/financial-advisor) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Kotlin port of the multi-agent financial advisor.
+* 🟡 [LLM Auditor (Kotlin)](https://github.com/google/adk-recipes/tree/main/contrib/kotlin/llm-auditor) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Sequential critic and reviser pipeline that fact-checks LLM answers with Google Search.
 
 **TypeScript**
 
-* 🟡 [Financial Advisor (TypeScript)](https://github.com/google/adk-recipes/tree/main/contrib/typescript/financial-advisor) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - TypeScript port of the multi-agent financial advisor.
+* 🟡 [Financial Advisor (TypeScript)](https://github.com/google/adk-recipes/tree/main/contrib/typescript/financial-advisor) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - TypeScript port of the multi-agent financial advisor.
 
 ### Agent Skill Plugins
 
-* 🟡 [Retail AI Plugin](https://github.com/google/adk-recipes/tree/main/plugins/retail) ⭐ 10,587 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Installable retail skills for coding agents: semantic product search over Vector Search 2.0 and BigQuery, plus image and video virtual try-on.
+* 🟡 [Retail AI Plugin](https://github.com/google/adk-recipes/tree/main/plugins/retail) ⭐ 10,591 | 🐛 39 | 🌐 Python | 📅 2026-11-06 - Installable retail skills for coding agents: semantic product search over Vector Search 2.0 and BigQuery, plus image and video virtual try-on.
 
 ## 🚀 Templates & Starters
 
@@ -145,26 +145,26 @@ In this section: [Maintainer's Agents](#maintainers-agents) · [Multi-Agent Syst
 
 ### Multi-Agent Systems
 
-* 🟡 [Self-Improving Agent Skills](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/self-improving-agent-skills) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Three ADK agents execute, analyze and mutate an agent skill in a loop, with a FastAPI backend and Next.js UI.
-* 🔴 [kweinmeister/agentic-trading](https://github.com/kweinmeister/agentic-trading) ⭐ 254 | 🐛 6 | 🌐 Python | 📅 2026-11-02 🏭 - Trading simulation where an AlphaBot trading agent and a RiskGuard risk agent talk over A2A, with Dockerfiles and Cloud Build configs. Informational only.
+* 🟡 [Self-Improving Agent Skills](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/self-improving-agent-skills) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Three ADK agents execute, analyze and mutate an agent skill in a loop, with a FastAPI backend and Next.js UI.
+* 🔴 [kweinmeister/agentic-trading](https://github.com/kweinmeister/agentic-trading) ⭐ 254 | 🐛 0 | 🌐 Python | 📅 2026-11-08 🏭 - Trading simulation where an AlphaBot trading agent and a RiskGuard risk agent talk over A2A, with Dockerfiles and Cloud Build configs. Informational only.
 * 🔴 [vladkol/crm-data-agent](https://github.com/vladkol/crm-data-agent) ⭐ 147 | 🐛 2 | 🌐 Python | 📅 2025-06-20 🏭 - Multi-agent RAG and NL2SQL over Salesforce data with Cloud Run scripts. Reference only: pinned to ADK 1.3 and old Gemini models (June 2025).
 * 🟡 [seehiong/adk-web-multi-agent](https://github.com/seehiong/adk-web-multi-agent) ⭐ 38 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-03 - Multi-agent system with Google ADK and OpenRouter models coordinating specialist agents to query PostgreSQL (via MCP Toolbox) and Data Commons.
 * 🟡 [derailed-dash/rickbot-adk](https://github.com/derailed-dash/rickbot-adk) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-06-30 🏭 - Multi-personality chatbot with FastAPI backend, Next.js UI, OAuth, and multi-agent RAG/search architecture.
 
 ### Frameworks & Platforms Built on ADK
 
-* 🔴 [volcengine/veadk-python](https://github.com/volcengine/veadk-python) ⭐ 349 | 🐛 76 | 🌐 Python | 📅 2026-11-06 🏭 - Volcengine's agent development kit layered on Google ADK, with Volcengine model, memory, tracing and AgentKit deployment integrations; Go port: [volcengine/veadk-go](https://github.com/volcengine/veadk-go) ⭐ 127 | 🐛 6 | 🌐 Go | 📅 2026-10-26.
+* 🔴 [volcengine/veadk-python](https://github.com/volcengine/veadk-python) ⭐ 349 | 🐛 77 | 🌐 Python | 📅 2026-11-06 🏭 - Volcengine's agent development kit layered on Google ADK, with Volcengine model, memory, tracing and AgentKit deployment integrations; Go port: [volcengine/veadk-go](https://github.com/volcengine/veadk-go) ⭐ 127 | 🐛 6 | 🌐 Go | 📅 2026-10-26.
 * 🔴 [yaalalabs/agent-kernel](https://github.com/yaalalabs/agent-kernel) ⭐ 192 | 🐛 119 | 🌐 Python | 📅 2026-11-07 🏭 - Runtime that runs Google ADK, LangGraph, CrewAI, OpenAI Agents SDK and others side by side, adding governance, pause/resume, sessions and multi-cloud deployment.
 * 🔴 [apowerb/apowerb](https://github.com/apowerb/apowerb) ⭐ 150 | 🐛 57 | 🌐 Python | 📅 2026-11-04 🏭 - Open-source platform that builds ADK agents from a web UI or REST API, with LiteLLM models, RAG, Text-to-SQL, MCP tools, quotas, audit, Docker Compose and Helm.
 * 🔴 [opensage-agent/opensage-adk](https://github.com/opensage-agent/opensage-adk) ⭐ 128 | 🐛 3 | 🌐 Python | 📅 2026-08-04 - Research kit on ADK where the model creates its own agent topology, synthesizes toolsets and manages structured memory at runtime (paper and docs linked; pinned to ADK 1.x).
-* 🔴 [antiv/mate](https://github.com/antiv/mate) ⭐ 108 | 🐛 8 | 🌐 Python | 📅 2026-11-07 🏭 - Production-ready multi-agent orchestration engine built on Google ADK with database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, and RBAC.
+* 🔴 [antiv/mate](https://github.com/antiv/mate) ⭐ 110 | 🐛 8 | 🌐 Python | 📅 2026-11-07 🏭 - Production-ready multi-agent orchestration engine built on Google ADK with database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, and RBAC.
 
 ### UI, Protocols & Runtimes
 
-* 🟡 [AI Dashboard Canvas Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/generative_ui_agents/ai-dashboard-canvas-agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Canvas dashboard where an ADK agent writes live charts and metrics through AG-UI and CopilotKit in a Next.js app.
-* 🟡 [AI Financial Coach Agent (AG-UI)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/generative_ui_agents/ai-financial-coach-agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Budget, savings and debt coach built from ADK agents, with AG-UI and CopilotKit rendering results as interactive Next.js cards.
-* 🟡 [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 38,557 | 🐛 395 | 🌐 TypeScript | 📅 2026-11-07 - Frontend stack for agents and generative UI, with an ADK + Angular starter (`examples/integrations/adk-angular`).
-* 🟡 [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) ⭐ 17,059 | 🐛 557 | 🌐 TypeScript | 📅 2026-11-07 - The AG-UI agent-to-frontend protocol; its ADK middleware (Python, JS, TypeScript) streams ADK agents to AG-UI clients.
+* 🟡 [AI Dashboard Canvas Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/generative_ui_agents/ai-dashboard-canvas-agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Canvas dashboard where an ADK agent writes live charts and metrics through AG-UI and CopilotKit in a Next.js app.
+* 🟡 [AI Financial Coach Agent (AG-UI)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/generative_ui_agents/ai-financial-coach-agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Budget, savings and debt coach built from ADK agents, with AG-UI and CopilotKit rendering results as interactive Next.js cards.
+* 🟡 [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 38,569 | 🐛 407 | 🌐 TypeScript | 📅 2026-11-08 - Frontend stack for agents and generative UI, with an ADK + Angular starter (`examples/integrations/adk-angular`).
+* 🟡 [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) ⭐ 17,065 | 🐛 562 | 🌐 TypeScript | 📅 2026-11-08 - The AG-UI agent-to-frontend protocol; its ADK middleware (Python, JS, TypeScript) streams ADK agents to AG-UI clients.
 * 🔴 [lemony-ai/cascadeflow](https://github.com/lemony-ai/cascadeflow) ⭐ 3,926 | 🐛 14 | 🌐 Python | 📅 2026-09-25 🏭 - Cascading runtime that optimizes cost, latency, quality, and policy decisions inside the agent loop, with a Google ADK integration and support for 17+ model providers.
 * 🔴 [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) ⭐ 3,830 | 🐛 9 | 🌐 Java | 📅 2026-11-06 - Portable JVM agent runtime whose `atmosphere-adk` module bridges ADK Java agent streams to WebSocket, SSE and gRPC clients.
 * 🔴 [Temporal ADK agent samples](https://github.com/temporalio/samples-python/tree/main/google_adk_agents) ⭐ 380 | 🐛 90 | 🌐 Python | 📅 2026-11-04 - Run ADK agents durably inside Temporal workflows; the integration ships as the `temporalio-google-adk` package.
@@ -173,21 +173,21 @@ In this section: [Maintainer's Agents](#maintainers-agents) · [Multi-Agent Syst
 
 ### Observability, Evaluation & Security
 
-* 🟡 [langfuse/langfuse](https://github.com/langfuse/langfuse) ⭐ 37,136 | 🐛 1,144 | 🌐 TypeScript | 📅 2026-11-07 - Open-source LLM observability that traces ADK agents via OpenTelemetry.
-* 🟡 [mlflow/mlflow](https://github.com/mlflow/mlflow) ⭐ 28,719 | 🐛 2,194 | 🌐 Python | 📅 2026-11-08 - AI engineering platform with ADK tracing and `mlflow.genai.scorers.google_adk` scorers for evaluating ADK agents.
-* 🟡 [comet-ml/opik](https://github.com/comet-ml/opik) ⭐ 23,253 | 🐛 184 | 🌐 Python | 📅 2026-11-07 - Debug, evaluate and monitor LLM apps and agents, with a native ADK integration.
-* 🟡 [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,195 | 🐛 1,202 | 🌐 Python | 📅 2026-11-07 - AI observability and evaluation platform with ADK integration guides for Python and Java.
-* 🔴 [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,535 | 🐛 134 | 🌐 Python | 📅 2026-11-07 🏭 - Microsoft agent governance toolkit with policy enforcement, zero-trust identity, sandboxing and OWASP Agentic Top 10 coverage (7 full, 3 partial), plus an ADK adapter. Successor to the archived `imran-siddique/agent-os`.
-* 🟡 [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) ⭐ 5,949 | 🐛 201 | 🌐 Python | 📅 2026-06-25 - Agent monitoring and cost tracking with a built-in ADK instrumentor.
-* 🟡 [Arize-ai/openinference](https://github.com/Arize-ai/openinference) ⭐ 1,308 | 🐛 274 | 🌐 Python | 📅 2026-11-06 - OpenTelemetry instrumentation for AI apps with ADK support (Python instrumentor and an ADK Java example) for any OTel backend.
-* 🟡 [pipelab-org/pipelock](https://github.com/pipelab-org/pipelock) ⭐ 987 | 🐛 6 | 🌐 Go | 📅 2026-11-08 - Open-source agent firewall for MCP and agent egress (exfiltration, SSRF and prompt-injection scanning, signed action receipts) with a Google ADK guide.
-* 🟡 [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit) ⭐ 543 | 🐛 58 | 🌐 Python | 📅 2026-11-07 - ADK plugin that sends every tool call to a separate signer to allow, deny or hold for a person, logged in a signed, offline-verifiable hash chain.
+* 🟡 [langfuse/langfuse](https://github.com/langfuse/langfuse) ⭐ 37,165 | 🐛 1,154 | 🌐 TypeScript | 📅 2026-11-08 - Open-source LLM observability that traces ADK agents via OpenTelemetry.
+* 🟡 [mlflow/mlflow](https://github.com/mlflow/mlflow) ⭐ 28,725 | 🐛 2,197 | 🌐 Python | 📅 2026-11-09 - AI engineering platform with ADK tracing and `mlflow.genai.scorers.google_adk` scorers for evaluating ADK agents.
+* 🟡 [comet-ml/opik](https://github.com/comet-ml/opik) ⭐ 23,266 | 🐛 191 | 🌐 Python | 📅 2026-11-09 - Debug, evaluate and monitor LLM apps and agents, with a native ADK integration.
+* 🟡 [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,205 | 🐛 1,216 | 🌐 Python | 📅 2026-11-08 - AI observability and evaluation platform with ADK integration guides for Python and Java.
+* 🔴 [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,543 | 🐛 134 | 🌐 Python | 📅 2026-11-07 🏭 - Microsoft agent governance toolkit with policy enforcement, zero-trust identity, sandboxing and OWASP Agentic Top 10 coverage (7 full, 3 partial), plus an ADK adapter. Successor to the archived `imran-siddique/agent-os`.
+* 🟡 [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) ⭐ 5,949 | 🐛 202 | 🌐 Python | 📅 2026-06-25 - Agent monitoring and cost tracking with a built-in ADK instrumentor.
+* 🟡 [Arize-ai/openinference](https://github.com/Arize-ai/openinference) ⭐ 1,309 | 🐛 280 | 🌐 Python | 📅 2026-11-09 - OpenTelemetry instrumentation for AI apps with ADK support (Python instrumentor and an ADK Java example) for any OTel backend.
+* 🟡 [pipelab-org/pipelock](https://github.com/pipelab-org/pipelock) ⭐ 987 | 🐛 8 | 🌐 Go | 📅 2026-11-09 - Open-source agent firewall for MCP and agent egress (exfiltration, SSRF and prompt-injection scanning, signed action receipts) with a Google ADK guide.
+* 🟡 [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit) ⭐ 601 | 🐛 60 | 🌐 Python | 📅 2026-11-09 - ADK plugin that sends every tool call to a separate signer to allow, deny or hold for a person, logged in a signed, offline-verifiable hash chain.
 * 🟡 [monocle2ai/monocle](https://github.com/monocle2ai/monocle) ⭐ 345 | 🐛 57 | 🌐 Python | 📅 2026-11-06 - OpenTelemetry-based GenAI tracing framework with ADK support and a sample ADK travel agent.
 * 🟡 [arklexai/arksim](https://github.com/arklexai/arksim) ⭐ 235 | 🐛 25 | 🌐 Python | 📅 2026-10-31 - Multi-turn simulation testing where LLM-driven synthetic users converse with your agent to find failures before production; includes an ADK example.
-* 🔴 [Idun-Group/idun-agent-platform](https://github.com/Idun-Group/idun-agent-platform) ⭐ 205 | 🐛 111 | 🌐 Python | 📅 2026-10-30 🏭 - Open-source Agent Governance Platform that turns any LangGraph or ADK agent into a production-ready service with AG-UI, OpenTelemetry, MCP, memory, guardrails, SSO, and RBAC.
-* 🟡 [grafana/agento11y](https://github.com/grafana/agento11y) ⭐ 132 | 🐛 68 | 🌐 Go | 📅 2026-11-07 - Grafana Agent Observability SDK with ADK helpers for Python, TypeScript, Go and Java that map ADK callbacks to generation and tool recordings.
-* 🟡 [trustabl/agent-reliability-analyzer](https://github.com/trustabl/agent-reliability-analyzer) ⭐ 87 | 🐛 4 | 🌐 Go | 📅 2026-11-07 - Local, deterministic static scanner (340+ rules) that finds and fixes agent reliability failures, with deep Google ADK coverage.
-* 🟡 [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) ⭐ 87 | 🐛 132 | 🌐 Python | 📅 2026-11-07 - Deterministic merge gate performing local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces, including Google ADK Python and YAML configs (CLI + GitHub Action).
+* 🔴 [Idun-Group/idun-agent-platform](https://github.com/Idun-Group/idun-agent-platform) ⭐ 204 | 🐛 111 | 🌐 Python | 📅 2026-10-30 🏭 - Open-source Agent Governance Platform that turns any LangGraph or ADK agent into a production-ready service with AG-UI, OpenTelemetry, MCP, memory, guardrails, SSO, and RBAC.
+* 🟡 [grafana/agento11y](https://github.com/grafana/agento11y) ⭐ 132 | 🐛 69 | 🌐 Go | 📅 2026-11-08 - Grafana Agent Observability SDK with ADK helpers for Python, TypeScript, Go and Java that map ADK callbacks to generation and tool recordings.
+* 🟡 [trustabl/agent-reliability-analyzer](https://github.com/trustabl/agent-reliability-analyzer) ⭐ 87 | 🐛 4 | 🌐 Go | 📅 2026-11-08 - Local, deterministic static scanner (340+ rules) that finds and fixes agent reliability failures, with deep Google ADK coverage.
+* 🟡 [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) ⭐ 87 | 🐛 133 | 🌐 Python | 📅 2026-11-08 - Deterministic merge gate performing local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces, including Google ADK Python and YAML configs (CLI + GitHub Action).
 * 🟡 [sondera-ai/sondera-harness-python](https://github.com/sondera-ai/sondera-harness-python) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2026-10-23 - Deterministic guardrails for agents with native ADK middleware (also LangGraph and Strands).
 * 🔴 [RubensZimbres/Agent-to-Agent-Security-Pipeline](https://github.com/RubensZimbres/Agent-to-Agent-Security-Pipeline) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2026-09-11 - Security-focused multi-agent pipeline using ADK + A2A + MCP: natural-language salary-database queries pass through threat-detection, SQL-execution, and PII-masking agents (requires `google-adk>=1.0,<2.0`).
 * 🟡 [ceodaradigu/proofline-agent](https://github.com/ceodaradigu/proofline-agent) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-24 🏭 - Evidence-first Google ADK agent that blocks external action until fresh authoritative evidence passes a deterministic four-state gate and explicit human approval, with Cloud Run deployment and unit tests.
@@ -195,18 +195,18 @@ In this section: [Maintainer's Agents](#maintainers-agents) · [Multi-Agent Syst
 
 ### Memory, Session & Storage
 
-* 🟡 [ADK Career Coach Agent with Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_apps_with_memory_tutorials/adk_career_coach_agent_memory) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Streamlit career coach where an ADK orchestrator routes to resume, interview, skills and salary sub-agents, with Mem0 and Qdrant memory.
-* 🟡 [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) ⭐ 59,732 | 🐛 192 | 🌐 Python | 📅 2026-11-07 - Agent memory that learns; its ADK integration implements `BaseMemoryService` (retain on session end, recall on search) plus explicit tool wrappers.
+* 🟡 [ADK Career Coach Agent with Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_apps_with_memory_tutorials/adk_career_coach_agent_memory) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Streamlit career coach where an ADK orchestrator routes to resume, interview, skills and salary sub-agents, with Mem0 and Qdrant memory.
+* 🟡 [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) ⭐ 59,926 | 🐛 204 | 🌐 Python | 📅 2026-11-08 - Agent memory that learns; its ADK integration implements `BaseMemoryService` (retain on session end, recall on search) plus explicit tool wrappers.
 * 🟡 [Memanto ADK memory service](https://github.com/moorcheh-ai/memanto/tree/main/integrations/google-adk) ⭐ 2,360 | 🐛 6 | 🌐 Python | 📅 2026-11-05 - Drop-in ADK memory service that extracts typed memories (preferences, facts, decisions) from turns, replacing `InMemoryMemoryService`.
 * 🟡 [achetronic/adk-utils-go](https://github.com/achetronic/adk-utils-go) ⭐ 133 | 🐛 2 | 🌐 Go | 📅 2026-11-07 🏭 - Go utilities for ADK: OpenAI and Anthropic model clients, Redis sessions, PostgreSQL + pgvector long-term memory, filesystem artifacts and a context-window guard plugin.
 * 🟡 [edu010101/adk-extra-services](https://github.com/edu010101/adk-extra-services) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2025-10-22 - Python package with extra ADK session (Redis, MongoDB) and artifact (S3, Azure, Supabase, local) backends. Last updated October 2025: lacks `list_artifact_versions` and `get_artifact_version`.
 
 ### Domain-Specific Applications
 
-* 🔴 [Insurance Claim Live Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/voice_ai_agents/insurance_claim_live_agent_team) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Voice and camera insurance claim intake on Gemini Live, with an ADK graph that classifies, validates and packages the claim.
-* 🟡 [Release Radar Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/always_on_agents/release_radar_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Scheduled ADK agent checking requirements.txt or package.json dependencies against GitHub releases for breaking and security changes. Pinned to ADK 1.9.0.
-* 🟡 [Multimodal Agentic RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/multimodal_agentic_rag) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - ADK coordinator answers questions with citations from text, URL, PDF, image, audio and video sources using Gemini Embedding 2.
-* 🟡 [Always-on Hacker News Briefing Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/always_on_agents/always_on_hn_briefing_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - ADK agent that ranks Hacker News AI stories into a daily brief, triggered through FastAPI by Cloud Scheduler or Pub/Sub.
+* 🔴 [Insurance Claim Live Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/voice_ai_agents/insurance_claim_live_agent_team) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Voice and camera insurance claim intake on Gemini Live, with an ADK graph that classifies, validates and packages the claim.
+* 🟡 [Release Radar Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/always_on_agents/release_radar_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Scheduled ADK agent checking requirements.txt or package.json dependencies against GitHub releases for breaking and security changes. Pinned to ADK 1.9.0.
+* 🟡 [Multimodal Agentic RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/multimodal_agentic_rag) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - ADK coordinator answers questions with citations from text, URL, PDF, image, audio and video sources using Gemini Embedding 2.
+* 🟡 [Always-on Hacker News Briefing Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/always_on_agents/always_on_hn_briefing_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - ADK agent that ranks Hacker News AI stories into a daily brief, triggered through FastAPI by Cloud Scheduler or Pub/Sub.
 * 🟡 [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas) ⭐ 451 | 🐛 60 | 🌐 Python | 📅 2026-09-10 - Conversational wiki knowledge base with Slack/Teams/Discord bots, RAG, and MCP integration built on Google ADK.
 * 🟡 [dandye/adk\_runbooks](https://github.com/dandye/adk_runbooks) ⭐ 90 | 🐛 50 | 🌐 Python | 📅 2026-10-26 - Manager-orchestrated multi-agent security operations system (incident response, threat hunting, detection engineering, alert triage) with a progressive-disclosure skills architecture.
 * 🟡 [anxuanzi/bua](https://github.com/anxuanzi/bua) ⭐ 85 | 🐛 1 | 🌐 Go | 📅 2026-01-04 - AI-powered browser automation for Go — describe tasks in plain English and let the ADK-powered agent handle the clicks via vision-language models.
@@ -238,8 +238,6 @@ In this section: [Community Training Platforms](#community-training-platforms) �
 
 ### Courses & Certifications
 
-* 🟡 [Building Live Voice Agents with Google's ADK (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-live-voice-agents-with-googles-adk/) - Short course by Google engineers: voice agent, sessions, state and memory, tools, callback guardrails, multi-agent orchestration, and a Gemini TTS podcast capstone.
-* 🟡 [A2A: The Agent2Agent Protocol (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/a2a-the-agent2agent-protocol/) - Course with Google Cloud and IBM Research: wrap agents built on ADK and other frameworks in A2A servers and orchestrate them in a healthcare multi-agent system.
 * 🟢 [Develop Agents with Agent Development Kit (ADK) track (DataCamp x Google Cloud)](https://www.datacamp.com/tracks/develop-agents-with-agent-development-kit-adk) - Five Google-created courses: build agents, optimize agent behavior, add tools, and manage memory and state.
 * 🟢 [Build Your First Agent with Agent Development Kit (Google Skills)](https://www.skills.google/course_templates/1563) - Introductory Google Skills course for building and running an ADK agent in Python and YAML.
 * 🟢 [5-Day AI Agents Intensive on Kaggle](https://www.kaggle.com/learn-guide/5-day-agents) - Free, self-paced guide from Google and Kaggle's November 2025 course: whitepapers, podcasts, livestreams and ADK codelabs on agent foundations, tools, memory, evaluation and production.
@@ -255,7 +253,7 @@ In this section: [Community Training Platforms](#community-training-platforms) �
 
 <a name="start-learn"></a>
 
-* 🔴 [GoogleCloudPlatform/race-condition](https://github.com/GoogleCloudPlatform/race-condition) ⭐ 239 | 🐛 57 | 🌐 Python | 📅 2026-11-05 - Multi-agent marathon simulation (ADK, Gemini, A2A, Go/Python/Angular) from the Google Cloud Next '26 Developer Keynote.
+* 🔴 [GoogleCloudPlatform/race-condition](https://github.com/GoogleCloudPlatform/race-condition) ⭐ 240 | 🐛 57 | 🌐 Python | 📅 2026-11-05 - Multi-agent marathon simulation (ADK, Gemini, A2A, Go/Python/Angular) from the Google Cloud Next '26 Developer Keynote.
 * 🟢 [Google ADK Codelabs](https://codelabs.developers.google.com/?text=ADK) - Interactive, guided tutorials with hands-on coding exercises from Google.
 * 🟡 [ADK 2 Orchestration: Graph, Collaborative & Dynamic Workflows](https://codelabs.developers.google.com/adk2/instructions) - About 50-minute Colab codelab teaching ADK 2.0 graph, collaborative (chat, single-turn, task) and dynamic workflows by building a race-day coach, one runnable step at a time.
 * 🟢 [Build Your First ADK Agent Workforce](https://cloud.google.com/blog/topics/developers-practitioners/build-your-first-adk-agent-workforce) - Learning path with 3 official codelabs: building autonomous agents, empowering agents with tools, and orchestrating multi-agent systems.
@@ -275,68 +273,68 @@ In this section: [Community Training Platforms](#community-training-platforms) �
 * 🟡 [lavinigam-gcp/build-with-adk](https://github.com/lavinigam-gcp/build-with-adk) ⭐ 45 | 🐛 2 | 🌐 HTML | 📅 2026-04-29 🏭 - Design patterns and production-ready architectures for building multi-agent AI systems with Google ADK on Cloud Run, Vertex AI, and AI Studio.
 * 🟢 [meteatamel/adk-demos](https://github.com/meteatamel/adk-demos/) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2025-10-29 - Collection of demos and tutorials for Google's Agent Development Kit.
 * 🟡 [thomas-chong/google-adk-visual-agent-builder-demo](https://github.com/thomas-chong/google-adk-visual-agent-builder-demo) ⭐ 32 | 🐛 0 | 📅 2025-11-10 - Complete demo of Google ADK Visual Agent Builder with a multi-agent research system walkthrough.
-* 🟡 [kweinmeister/agent-design-patterns](https://github.com/kweinmeister/agent-design-patterns) ⭐ 26 | 🐛 6 | 🌐 Python | 📅 2026-10-31 - Executable cookbook of agent architecture patterns using ADK and Gemini, with a published guide.
+* 🟡 [kweinmeister/agent-design-patterns](https://github.com/kweinmeister/agent-design-patterns) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2026-11-08 - Executable cookbook of agent architecture patterns using ADK and Gemini, with a published guide.
 * 🟡 [Datascale agent docs tutorial](https://github.com/datascalehq/datascale/tree/main/cookbook/tutorials/agent_docs) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-06-19 - Multi-agent documentation builder with planner and writer agents that analyze codebases and generate structured knowledge bases ([companion article](https://medium.com/gitconnected/building-a-knowledge-base-from-your-codebase-using-google-adk-7508e845bdc1)).
 * 🟡 [Give a Google ADK agent per-user OAuth tools with Scalekit](https://docs.scalekit.com/agentkit/examples/google-adk/) - Scalekit guide to a Gmail-reading ADK agent with per-user OAuth tools, from native ADK tools or a Scalekit MCP server through `McpToolset`. Sample code: [scalekit-inc/google-adk-agent-example](https://github.com/scalekit-inc/google-adk-agent-example) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-04-30.
 
 <details>
 <summary><b>Google ADK crash course and apps from awesome-llm-apps</b> · 21 lessons and 9 apps</summary>
 
-Tutorial examples from [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 that demonstrate ADK patterns and capabilities.
+Tutorial examples from [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 that demonstrate ADK patterns and capabilities.
 
 **Fundamentals:**
 
-* 🟢 [Starter Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/1_starter_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Your first ADK agent: basic agent creation, the ADK workflow, and simple text processing.
-* 🟢 [Model-Agnostic Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/2_model_agnostic_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Running ADK with non-Gemini models, with OpenAI and Anthropic Claude integration sub-examples.
-* 🟢 [Memory Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/5_memory_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Memory and session management with in-memory conversation handling and persistent SQLite storage.
-* 🟢 [Simple Multi-Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/8_simple_multi_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Multi-agent orchestration via a researcher pipeline of specialized agents in a sequential workflow.
-* 🟢 [ADK YAML Examples](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/adk_yaml_examples) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Config-driven agent definitions using ADK's YAML format.
+* 🟢 [Starter Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/1_starter_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Your first ADK agent: basic agent creation, the ADK workflow, and simple text processing.
+* 🟢 [Model-Agnostic Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/2_model_agnostic_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Running ADK with non-Gemini models, with OpenAI and Anthropic Claude integration sub-examples.
+* 🟢 [Memory Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/5_memory_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Memory and session management with in-memory conversation handling and persistent SQLite storage.
+* 🟢 [Simple Multi-Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/8_simple_multi_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Multi-agent orchestration via a researcher pipeline of specialized agents in a sequential workflow.
+* 🟢 [ADK YAML Examples](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/adk_yaml_examples) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Config-driven agent definitions using ADK's YAML format.
 
 **Structured Output Agents:**
 
-* 🟢 [Customer Support Ticket Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/3_structured_output_agent/3_1_customer_support_ticket_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Generates structured support tickets with Pydantic schemas.
-* 🟢 [Email Generator Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/3_structured_output_agent/3_2_email_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Creates formatted emails with structured output.
+* 🟢 [Customer Support Ticket Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/3_structured_output_agent/3_1_customer_support_ticket_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Generates structured support tickets with Pydantic schemas.
+* 🟢 [Email Generator Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/3_structured_output_agent/3_2_email_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Creates formatted emails with structured output.
 
 **Tool-Using Agents:**
 
-* 🟢 [Code Execution Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_1_builtin_tools/code_exec_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Built-in code execution tools.
-* 🟢 [Google Search Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_1_builtin_tools/search_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Web search capabilities.
-* 🟢 [Function Tools](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_2_function_tools) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Custom Python functions as agent tools, with calculator and utility agent examples.
-* 🟢 [Filesystem Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_4_mcp_tools/filesystem_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - MCP filesystem tools integration.
-* 🟢 [Firecrawl Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_4_mcp_tools/firecrawl_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Web scraping, site crawling and structured extraction through the Firecrawl MCP server.
-* 🟢 [LangChain Integration Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_3_thirdparty_tools/langchain_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Third-party tool integration with LangChain.
-* 🟢 [CrewAI Integration Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_3_thirdparty_tools/crewai_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Third-party tool integration with CrewAI.
+* 🟢 [Code Execution Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_1_builtin_tools/code_exec_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Built-in code execution tools.
+* 🟢 [Google Search Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_1_builtin_tools/search_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Web search capabilities.
+* 🟢 [Function Tools](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_2_function_tools) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Custom Python functions as agent tools, with calculator and utility agent examples.
+* 🟢 [Filesystem Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_4_mcp_tools/filesystem_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - MCP filesystem tools integration.
+* 🟢 [Firecrawl Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_4_mcp_tools/firecrawl_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Web scraping, site crawling and structured extraction through the Firecrawl MCP server.
+* 🟢 [LangChain Integration Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_3_thirdparty_tools/langchain_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Third-party tool integration with LangChain.
+* 🟢 [CrewAI Integration Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/4_tool_using_agent/4_3_thirdparty_tools/crewai_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Third-party tool integration with CrewAI.
 
 **Callback Agents:**
 
-* 🟢 [Agent Lifecycle Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_1_agent_lifecycle_callbacks) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Monitoring agent execution lifecycle.
-* 🟢 [LLM Interaction Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_2_llm_interaction_callbacks) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Tracking LLM calls and responses.
-* 🟢 [Tool Execution Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_3_tool_execution_callbacks) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Monitoring tool usage and execution.
+* 🟢 [Agent Lifecycle Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_1_agent_lifecycle_callbacks) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Monitoring agent execution lifecycle.
+* 🟢 [LLM Interaction Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_2_llm_interaction_callbacks) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Tracking LLM calls and responses.
+* 🟢 [Tool Execution Callbacks](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/6_callbacks/6_3_tool_execution_callbacks) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Monitoring tool usage and execution.
 
 **Plugin Agents:**
 
-* 🟢 [Plugin-based Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/7_plugins) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Extensible plugin architecture for modular agent design.
+* 🟢 [Plugin-based Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/7_plugins) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Extensible plugin architecture for modular agent design.
 
 **Multi-Agent Systems:**
 
-* 🟢 [Sequential Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_1_sequential_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Step-by-step multi-agent coordination (uses `SequentialAgent`, deprecated in ADK 2.x in favor of `Workflow`; still runs).
-* 🟢 [Loop Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_2_loop_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Iterative multi-agent workflows (uses `LoopAgent`, deprecated in ADK 2.x in favor of `Workflow`; still runs).
-* 🟢 [Parallel Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_3_parallel_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Concurrent multi-agent execution (uses `ParallelAgent`, deprecated in ADK 2.x in favor of `Workflow`; still runs).
+* 🟢 [Sequential Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_1_sequential_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Step-by-step multi-agent coordination (uses `SequentialAgent`, deprecated in ADK 2.x in favor of `Workflow`; still runs).
+* 🟢 [Loop Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_2_loop_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Iterative multi-agent workflows (uses `LoopAgent`, deprecated in ADK 2.x in favor of `Workflow`; still runs).
+* 🟢 [Parallel Multi-Agent Pattern](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/9_multi_agent_patterns/9_3_parallel_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Concurrent multi-agent execution (uses `ParallelAgent`, deprecated in ADK 2.x in favor of `Workflow`; still runs).
 
 **Multi-Agent Applications:**
 
-* 🟡 [AI Financial Coach Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Financial advisory system with specialized agent teams.
-* 🟡 [AI Home Renovation Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Home improvement planning with multi-agent coordination.
-* 🟡 [AI SEO Audit Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_seo_audit_team) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Website SEO analysis with specialized agent teams.
-* 🟡 [Multimodal UI/UX Feedback Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Design review system with multimodal capabilities.
-* 🟡 [AI Negotiation Battle Simulator](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_negotiation_battle_simulator) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Buyer, seller, and orchestrator agents simulate negotiations with an AG-UI frontend (ag\_ui\_adk).
-* 🟡 [AI Sales Intelligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_sales_intelligence_agent_team) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Sequential research agents that generate competitive battle cards and comparison charts.
-* 🟡 [AI VC Due Diligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_vc_due_diligence_agent_team) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Sequential agents producing HTML reports, infographics, and financial charts for VC due diligence.
+* 🟡 [AI Financial Coach Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Financial advisory system with specialized agent teams.
+* 🟡 [AI Home Renovation Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Home improvement planning with multi-agent coordination.
+* 🟡 [AI SEO Audit Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_seo_audit_team) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Website SEO analysis with specialized agent teams.
+* 🟡 [Multimodal UI/UX Feedback Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Design review system with multimodal capabilities.
+* 🟡 [AI Negotiation Battle Simulator](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_negotiation_battle_simulator) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Buyer, seller, and orchestrator agents simulate negotiations with an AG-UI frontend (ag\_ui\_adk).
+* 🟡 [AI Sales Intelligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_sales_intelligence_agent_team) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Sequential research agents that generate competitive battle cards and comparison charts.
+* 🟡 [AI VC Due Diligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_vc_due_diligence_agent_team) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Sequential agents producing HTML reports, infographics, and financial charts for VC due diligence.
 
 **Single-Agent Applications:**
 
-* 🟡 [Earnings Call Analyst Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/earnings_call_analyst_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Ingests and analyzes earnings calls with transcription, research, and analyst agents.
-* 🟡 [AI Consultant Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_consultant_agent) ⭐ 144,126 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Business consulting agent using Google Search grounding and session management.
+* 🟡 [Earnings Call Analyst Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/earnings_call_analyst_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Ingests and analyzes earnings calls with transcription, research, and analyst agents.
+* 🟡 [AI Consultant Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_consultant_agent) ⭐ 144,222 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Business consulting agent using Google Search grounding and session management.
 
 </details>
 
@@ -383,7 +381,7 @@ In this section: [ADK-Focused Hackathons](#adk-focused-hackathons) · [Hackathon
 
 *The first hackathon built around ADK, with 10,400+ participants from 62 countries. Source: [winners announcement](https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights). Also see [all submissions](https://googlecloudmultiagents.devpost.com/project-gallery).*
 
-* 🥇 **Grand Prize ($15,000)**: [SalesShortcut](https://devpost.com/software/salesshortcut) - AI-powered Sales Development Representative system with a multi-agent architecture for automated lead generation, research, proposal generation, and outreach. ([source](https://github.com/merdandt/SalesShortcut) ⭐ 84 | 🐛 1 | 🌐 Python | 📅 2025-06-28)
+* 🥇 **Grand Prize ($15,000)**: [SalesShortcut](https://devpost.com/software/salesshortcut) - AI-powered Sales Development Representative system with a multi-agent architecture for automated lead generation, research, proposal generation, and outreach. ([source](https://github.com/merdandt/SalesShortcut) ⭐ 83 | 🐛 1 | 🌐 Python | 📅 2025-06-28)
 * 🎖️ **Honorable Mention ($1,000)**: [TradeSage AI](https://devpost.com/software/tradesage-ai) - Multi-agent financial analysis platform for evaluating trading hypotheses with ADK, Agent Engine, Cloud Run and Vertex AI. ([source](https://github.com/sudsk/tradesage-mvp) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2025-06-23)
 * 🌍 **Europe, Middle East & Africa ($8,000)**: [Nexora-AI](https://devpost.com/software/teachai-upzofa) - Next-gen personalized education with interactive lessons, visuals, quizzes, and smart AI support. ([source](https://github.com/M4RKUS28/Nexora) ⭐ 32 | 🐛 19 | 🌐 JavaScript | 📅 2025-08-22)
 * 🎖️ **Honorable Mention ($1,000)**: [Bleach](https://devpost.com/software/bleach-7tqdmo) - Visual AI agent builder for Google ADK: describe agents in plain English, design them visually, and test instantly. ([source](https://github.com/vivek100/bleachAgentBuilder) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2025-06-24)
@@ -651,7 +649,7 @@ adk deploy gke --project=PROJECT --region=REGION path/to/my_agent            # G
 
 ### Resources
 
-* [ADK Python Discussions](https://github.com/google/adk-python/discussions) ⭐ 22,137 | 🐛 416 | 🌐 Python | 📅 2026-11-07 - GitHub Discussions on the adk-python repository for questions and ideas.
+* [ADK Python Discussions](https://github.com/google/adk-python/discussions) ⭐ 22,149 | 🐛 422 | 🌐 Python | 📅 2026-11-09 - GitHub Discussions on the adk-python repository for questions and ideas.
 * [Official ADK Documentation](https://adk.dev/)
 * [Third-Party Tools for ADK](https://adk.dev/tools/third-party/) - Official catalog of integrated third-party tools, and the [integrations catalog](https://adk.dev/integrations/).
 * [ADK community page](https://adk.dev/community/) - Official page listing community groups, calls, courses and contributed resources.
@@ -676,4 +674,4 @@ Credits: the Google ADK team for the framework, Brandon Hancock for educational 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
